@@ -1,0 +1,26 @@
+---
+title: "Celaref: Annotating single-cell RNAseq clusters by similarity to reference datasets"
+author:
+- name: Sarah Williams
+  affiliation: Monash Bioinformatics Platform
+- name: Paul Harrison
+  affiliation: Monash Bioinformatics Platform
+- name: Sonika Tyagi
+  affiliation: Monash Bioinformatics Platform
+- name: David Powell
+  affiliation: Monash Bioinformatics Platform
+output:
+  BiocStyle::html_document
+---
+
+# Abstract
+
+Cell clustering is an integral part of many single cell RNAseq experiments. However, many clustering methods are agnostic to the underlying biology, so the cellular composition of clusters needs to be determined before subsequent analysis. Cluster characterisation can be a semi-manual process involving examination of known markers and differential expression.
+ 
+Celaref is an R package that aims to provide a simple automated means of annotated cluster ‘cell types’ based on similarity to a reference dataset.  Briefly, within-dataset differential expression is calculated (using MAST or limma) to identify the most enriched genes for each cluster, then their gene rankings are examined in reference datasets treated the same way. It produces cell cluster annotations describing matches to one, none or multiple reference groups as appropriate, alongside a measure of confidence. New custom references are simple to prepare, don’t have to be a perfect experimental match (e.g. previously annotated experiments, public data), and can be saved for subsequent analyses.
+ 
+This tool has been contrasted with other per-cell type assignment tools such as scmap. Experiments on brain, lacrimal gland and blood PBMC samples show sensible matching between similar cell types without overreaching on dissimilar cells. The celaref package provides a simple differential expression based method of characterising clusters from scRNAseq data, and may be useful in evaluating clustering algorithms.
+
+## Software Availability
+ 
+Celaref may be obtained from Bioconductor at: [https://bioconductor.org/packages/release/bioc/html/celaref.html](https://bioconductor.org/packages/release/bioc/html/celaref.html)
