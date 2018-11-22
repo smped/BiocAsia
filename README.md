@@ -1,7 +1,19 @@
-<img src="https://bioconductor.org/images/logo_bioconductor.gif">
-<img src="images/Bioc2018.png" alt="drawing" width="200"/>
+figure {
+    display: inline-block;
+    vertical-align: middle;
+    margin:0;
+}
+.imGSec{white-space:nowrap;}
+<div class="imGSec">
+  <figure id="BioC">
+    <img src="https://bioconductor.org/images/logo_bioconductor.gif" alt="BiocLogo">
+  </figure>
+  <figure id="BiocAsia">
+    <img src="images/Bioc2018.png" alt="BiocAsia" width="200"/>
+  </figure>
+ </div>
 
-# Bioc Asia 2018
+# BioC Asia 2018
 
 29-30 November, 2018  
 University of Melbourne, VIC, Australia  
