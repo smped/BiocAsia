@@ -57,7 +57,7 @@ Room 556, Arts West, University of Melbourne
 | Time | Presenter | Topic |
 |:-------------- |:------------------------------- |:------------------------------------- |
 | 9:00am - 9:50am | Professor Martin Morgan  | Project updates & Getting to know you |
-| 9:50am - 10:30am | | **Lightning Talks (~5 mins)** |
+| 9:50am - 10:30am | | **Lightning Talks** |
 |              | Mr Shian Su <br> (WEHI) | CellBench: software for comparing single cell analyses |
 |              | Dr Peter Hickey <br> (WEHI) | Using the Delayed Array framework for processing large datasets |
 |              | Mr Brian Skjerven <br> (Pawsey SCC) | The use of Docker containers to support R-based bioinformatics workflows on an HPC system |
@@ -78,8 +78,7 @@ Room 556, Arts West, University of Melbourne
 |          | Ms Yingxin Lin <br> (U Sydney) | [scMerge: Integration of multiple single-cell transcriptomics datasets leveraging stable expression and pseudo-replication](abstracts/lin.html) |
 |          | Dr Davis McCarthy <br> (St Vincent’s Institute) | Updates on the single-cell package ecosystem |
 | 3:40pm - 4:10pm | | **Afternoon Tea** | 
-| 4:10pm - 4:40pm | | **Panel Discussion** | 
-|                 | | Grand challenges in Single Cell Data Analysis |
+| 4:10pm - 4:40pm | | **Panel Discussion: Grand challenges in Single Cell Data Analysis** |
 |           | *Moderator:* <br> Associate Professor Alicia Oshlack | *Panelists:* <br> Assistant Professor Stephanie Hicks <br> Professor Gordon Smyth <br> Professor Martin Morgan |
 | 4:40pm - 5:00pm | | **Closing Remarks** |
 
