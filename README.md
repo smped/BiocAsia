@@ -1,3 +1,6 @@
+<img src="https://bioconductor.org/images/logo_bioconductor.gif">
+<img src="images/Bioc2018.png" alt="drawing" width="200"/>
+
 # Bioc Asia 2018
 
 29-30 November, 2018  
