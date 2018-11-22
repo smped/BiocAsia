@@ -1,3 +1,8 @@
+# Bioc Asia 2018
+
+29-30 November, 2018  
+University of Melbourne, VIC, Australia  
+
 ## General Information
 
 Registration will be outside Room 253, Arts West, University of Melbourne
