@@ -59,7 +59,7 @@ Room 556, Arts West, University of Melbourne
 |           | *Dr Tim Peters* (Garvan Institute of Medical Research) <br> [A general framework for evaluating cross-platform concordance in genomic studies](abstracts/peters.html) |
 |           | *Prof. Gordon Smyth* (Walter & Eliza Hall Institute of Medical Research) | |
 | 12:30pm - 1:30pm | **Lunch** |
-| 1:30pm - 2:20pm  | **Keynote presentation**  <br> Assistant Professor Stephanie Hicks <br> (Johns Hopkins U) | 
+| 1:30pm - 2:20pm  | **Keynote presentation**  <br> Assistant Professor Stephanie Hicks (Johns Hopkins University) | 
 | 2:20pm - 3:40pm  | **Research talks / Software demos** (II) | 
 |          | *Ms Sarah Williams* (Monash University) <br> [Celaref: Annotating single-cell RNAseq clusters by similarity to reference datasets](abstracts/williams.html) |
 |          | *Dr Saskia Freytag* (Walter & Eliza Hall Institute of Medical Research) <br> [Efforts towards a definitive pipeline for the analysis of matched single cell nuclei RNA-seq.](abstracts/freytag.html) |
