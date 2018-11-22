@@ -54,31 +54,31 @@ Room 556, Arts West, University of Melbourne
 
 ### Provisional Timetable
 
-| Time | Presenter | Topic |
-|:-------------- |:------------------------------- |:------------------------------------- |
-| 9:00am - 9:50am | Professor Martin Morgan  | Project updates & Getting to know you |
+| Time | Topic |
+|:-------------- |:------------------------------------- |
+| 9:00am - 9:50am | *Professor Martin Morgan* <br> Project updates & Getting to know you |
 | 9:50am - 10:30am | | **Lightning Talks** |
-|              | Mr Shian Su <br> (WEHI) | CellBench: software for comparing single cell analyses |
-|              | Dr Peter Hickey <br> (WEHI) | Using the Delayed Array framework for processing large datasets |
-|              | Mr Brian Skjerven <br> (Pawsey SCC) | The use of Docker containers to support R-based bioinformatics workflows on an HPC system |
-|              | Ms Anna Quaglieri <br> (WEHI) | R-Ladies: An update on the local and wider picture |
-|              | Dr Saskia Freytag <br> (WEHI) | dtangle: accurate and robust cell type deconvolution |
-| 10:30am - 11:00am |  | **Morning Tea** |
-| 11:00am - 12:30pm |  | **Research talks / Software demos** (I) |
-|            | Dr Peter Hickey <br> (WEHI) | [Getting help and helping others (including future you)](abstracts/hickey.html) |
-|            | Mr Harry Fong <br> (CSL Ltd) | [abseqR: reporting and data analysis functionalities for Rep-Seq datasets of antibody libraries](abstracts/fong.html) |
-|           | Dr Tim Peters <br> (Garvan Institute) | [A general framework for evaluating cross-platform concordance in genomic studies](abstracts/peters.html) |
-|           | Prof. Gordon Smyth <br> (WEHI) | |
-| 12:30pm - 1:30pm |  | **Lunch** |
-| 1:30pm - 2:20pm |  | **Keynote presentation** |
-|          | Assistant Professor Stephanie Hicks <br> (Johns Hopkins U) | |
-| 2:20pm - 3:40pm | | **Research talks / Software demos** (II) | 
-|          | Ms Sarah Williams <br> (Monash U) | [Celaref: Annotating single-cell RNAseq clusters by similarity to reference datasets](abstracts/williams.html) |
-|          | Dr Saskia Freytag <br> (WEHI) |  [Efforts towards a definitive pipeline for the analysis of matched single cell nuclei RNA-seq.](abstracts/freytag.html) |
-|          | Ms Yingxin Lin <br> (U Sydney) | [scMerge: Integration of multiple single-cell transcriptomics datasets leveraging stable expression and pseudo-replication](abstracts/lin.html) |
-|          | Dr Davis McCarthy <br> (St Vincent’s Institute) | Updates on the single-cell package ecosystem |
-| 3:40pm - 4:10pm | | **Afternoon Tea** | 
-| 4:10pm - 4:40pm | | **Panel Discussion: Grand challenges in Single Cell Data Analysis** |
-|           | *Moderator:* <br> Associate Professor Alicia Oshlack | *Panelists:* <br> Assistant Professor Stephanie Hicks <br> Professor Gordon Smyth <br> Professor Martin Morgan |
-| 4:40pm - 5:00pm | | **Closing Remarks** |
+|              | *Mr Shian Su* (WEHI) <br> CellBench: software for comparing single cell analyses |
+|              | *Dr Peter Hickey* (WEHI) <br> Using the Delayed Array framework for processing large datasets |
+|              | *Mr Brian Skjerven* (Pawsey Super-Computing) <br> The use of Docker containers to support R-based bioinformatics workflows on an HPC system |
+|              | *Ms Anna Quaglieri* (WEHI) <br> R-Ladies: An update on the local and wider picture |
+|              | *Dr Saskia Freytag* (WEHI) <br> dtangle: accurate and robust cell type deconvolution |
+| 10:30am - 11:00am |  **Morning Tea** |
+| 11:00am - 12:30pm | **Research talks / Software demos** (I) |
+|            | *Dr Peter Hickey* (WEHI) <br> [Getting help and helping others (including future you)](abstracts/hickey.html) |
+|            | *Mr Harry Fong* (CSL Ltd) <br> [abseqR: reporting and data analysis functionalities for Rep-Seq datasets of antibody libraries](abstracts/fong.html) |
+|           | *Dr Tim Peters* (Garvan Institute) <br> [A general framework for evaluating cross-platform concordance in genomic studies](abstracts/peters.html) |
+|           | *Prof. Gordon Smyth* (WEHI) | |
+| 12:30pm - 1:30pm | **Lunch** |
+| 1:30pm - 2:20pm  | **Keynote presentation**  <br> Assistant Professor Stephanie Hicks <br> (Johns Hopkins U) | 
+| 2:20pm - 3:40pm  | **Research talks / Software demos** (II) | 
+|          | *Ms Sarah Williams* (Monash University) <br> [Celaref: Annotating single-cell RNAseq clusters by similarity to reference datasets](abstracts/williams.html) |
+|          | *Dr Saskia Freytag* (WEHI) <br> [Efforts towards a definitive pipeline for the analysis of matched single cell nuclei RNA-seq.](abstracts/freytag.html) |
+|          | *Ms Yingxin Lin* (University Of Sydney) <br> [scMerge: Integration of multiple single-cell transcriptomics datasets leveraging stable expression and pseudo-replication](abstracts/lin.html) |
+|          | *Dr Davis McCarthy* (St Vincent’s Institute) <br> Updates on the single-cell package ecosystem |
+| 3:40pm - 4:10pm | **Afternoon Tea** | 
+| 4:10pm - 4:40pm | **Panel Discussion: Grand challenges in Single Cell Data Analysis** |
+|           | *Moderator:* Associate Professor Alicia Oshlack |
+|           | *Panelists:* <br> Assistant Professor Stephanie Hicks <br> Professor Gordon Smyth <br> Professor Martin Morgan |
+| 4:40pm - 5:00pm | **Closing Remarks** |
 
