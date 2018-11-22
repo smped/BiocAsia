@@ -17,6 +17,8 @@ Visitor Wi-Fi information:
 - Username: `abacbs`
 - Password: `N@a7co`
 
+An [etherpad site](https://pad.carpentries.org/BiocAsia2018) is also available for any online discussion during the workshops
+
 ## Workshop Day: 29 November, 2018
 
 Rooms 261 & 263, Arts West, University of Melbourne
