@@ -57,23 +57,23 @@ Room 556, Arts West, University of Melbourne
 | Time | Topic |
 |:-------------- |:------------------------------------- |
 | 9:00am - 9:50am | *Professor Martin Morgan* <br> Project updates & Getting to know you |
-| 9:50am - 10:30am | | **Lightning Talks** |
-|              | *Mr Shian Su* (WEHI) <br> CellBench: software for comparing single cell analyses |
-|              | *Dr Peter Hickey* (WEHI) <br> Using the Delayed Array framework for processing large datasets |
-|              | *Mr Brian Skjerven* (Pawsey Super-Computing) <br> The use of Docker containers to support R-based bioinformatics workflows on an HPC system |
-|              | *Ms Anna Quaglieri* (WEHI) <br> R-Ladies: An update on the local and wider picture |
-|              | *Dr Saskia Freytag* (WEHI) <br> dtangle: accurate and robust cell type deconvolution |
+| 9:50am - 10:30am | **Lightning Talks** |
+|              | *Mr Shian Su* (Walter & Eliza Hall Institute of Medical Research) <br> CellBench: software for comparing single cell analyses |
+|              | *Dr Peter Hickey* (Walter & Eliza Hall Institute of Medical Research) <br> Using the Delayed Array framework for processing large datasets |
+|              | *Mr Brian Skjerven* (Pawsey Super-Computing Centre) <br> The use of Docker containers to support R-based bioinformatics workflows on an HPC system |
+|              | *Ms Anna Quaglieri* (Walter & Eliza Hall Institute of Medical Research) <br> R-Ladies: An update on the local and wider picture |
+|              | *Dr Saskia Freytag* (Walter & Eliza Hall Institute of Medical Research) <br> dtangle: accurate and robust cell type deconvolution |
 | 10:30am - 11:00am |  **Morning Tea** |
 | 11:00am - 12:30pm | **Research talks / Software demos** (I) |
-|            | *Dr Peter Hickey* (WEHI) <br> [Getting help and helping others (including future you)](abstracts/hickey.html) |
+|            | *Dr Peter Hickey* (Walter & Eliza Hall Institute of Medical Research) <br> [Getting help and helping others (including future you)](abstracts/hickey.html) |
 |            | *Mr Harry Fong* (CSL Ltd) <br> [abseqR: reporting and data analysis functionalities for Rep-Seq datasets of antibody libraries](abstracts/fong.html) |
-|           | *Dr Tim Peters* (Garvan Institute) <br> [A general framework for evaluating cross-platform concordance in genomic studies](abstracts/peters.html) |
-|           | *Prof. Gordon Smyth* (WEHI) | |
+|           | *Dr Tim Peters* (Garvan Institute of Medical Research) <br> [A general framework for evaluating cross-platform concordance in genomic studies](abstracts/peters.html) |
+|           | *Prof. Gordon Smyth* (Walter & Eliza Hall Institute of Medical Research) | |
 | 12:30pm - 1:30pm | **Lunch** |
 | 1:30pm - 2:20pm  | **Keynote presentation**  <br> Assistant Professor Stephanie Hicks <br> (Johns Hopkins U) | 
 | 2:20pm - 3:40pm  | **Research talks / Software demos** (II) | 
 |          | *Ms Sarah Williams* (Monash University) <br> [Celaref: Annotating single-cell RNAseq clusters by similarity to reference datasets](abstracts/williams.html) |
-|          | *Dr Saskia Freytag* (WEHI) <br> [Efforts towards a definitive pipeline for the analysis of matched single cell nuclei RNA-seq.](abstracts/freytag.html) |
+|          | *Dr Saskia Freytag* (Walter & Eliza Hall Institute of Medical Research) <br> [Efforts towards a definitive pipeline for the analysis of matched single cell nuclei RNA-seq.](abstracts/freytag.html) |
 |          | *Ms Yingxin Lin* (University Of Sydney) <br> [scMerge: Integration of multiple single-cell transcriptomics datasets leveraging stable expression and pseudo-replication](abstracts/lin.html) |
 |          | *Dr Davis McCarthy* (St Vincent’s Institute) <br> Updates on the single-cell package ecosystem |
 | 3:40pm - 4:10pm | **Afternoon Tea** | 
