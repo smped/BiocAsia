@@ -1,19 +1,4 @@
-<style>
-    figure {
-    display: inline-block;
-    vertical-align: middle;
-    margin:0;
-}
-.imGSec{white-space:nowrap;}
-        </style>
-<div class="imGSec">
-  <figure id="BioC">
-    <img src="https://bioconductor.org/images/logo_bioconductor.gif" alt="BiocLogo">
-  </figure>
-  <figure id="BiocAsia">
-    <img src="images/Bioc2018.png" alt="BiocAsia" width="200"/>
-  </figure>
- </div>
+<img src="https://bioconductor.org/images/logo_bioconductor.gif" alt="BiocLogo">
 
 # BioC Asia 2018
 
