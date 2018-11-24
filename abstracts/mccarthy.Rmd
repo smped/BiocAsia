@@ -1,0 +1,12 @@
+---
+title: "The ever-expanding and ever-improving Bioconductor ecosystem for single-cell data analysis"
+author:
+- name: Davis McCarthy
+  affiliation: St Vincent's Institute of Medical Research, Fitzroy, VIC, Australia
+output:
+  BiocStyle::html_document
+---
+
+# Abstract
+
+Bioconductor continues to provide the leading platform and ecosystem for single-cell genomic data analysis. With 59 single-cell software packages now available, Bioconductor offers many modular, flexible workflows for single-cell analysis from low-level data processing and QC to visualisation, clustering, factor analysis and much more. In this talk I will highlight some of the most exciting recent developments from the latest Bioconductor release including: infrastructure enabling the analysis of very large datasets; the iSEE package for interactive data visualisation; ExperimentHub packages making single-cell data easily available; new utilities for droplet data; batch correction; reference mapping and cell-type identification.
