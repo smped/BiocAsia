@@ -1,5 +1,5 @@
 ---
-title: "The ever-expanding and ever-improving Bioconductor ecosystem for single-cell data analysis"
+title: "Doing single-cell genetics with Bioconductor"
 author:
 - name: Davis McCarthy
   affiliation: St Vincent's Institute of Medical Research, Fitzroy, VIC, Australia
@@ -9,4 +9,4 @@ output:
 
 # Abstract
 
-Bioconductor continues to provide the leading platform and ecosystem for single-cell genomic data analysis. With 59 single-cell software packages now available, Bioconductor offers many modular, flexible workflows for single-cell analysis from low-level data processing and QC to visualisation, clustering, factor analysis and much more. In this talk I will highlight some of the most exciting recent developments from the latest Bioconductor release including: infrastructure enabling the analysis of very large datasets; the iSEE package for interactive data visualisation; ExperimentHub packages making single-cell data easily available; new utilities for droplet data; batch correction; reference mapping and cell-type identification.
+Recent advances in single-cell genomics technologies have rightly spurred great excitement. Something of a gold rush has ensued for methods and papers exploring cell-to-cell variation in DNA sequence and gene expression. Due to the accessibility of the assays, as well as inherent interest, single-cell RNA-seq (scRNA-seq) has been by far the most widely exploited single-cell genomic technology and has proven a powerful way to gain new insights into heterogeneous cell populations. However, most single-cell studies to this point have ignored a very important axis of variation: genetics. In recent work, we have integrated genotypic and scRNA-seq data to explore the effects of common genetic variation on single-cell gene expression in development (single-cell QTLs) and to interrogate phenotypic differences between different clonal populations of cells tagged by somatic mutations (single-cell clonality). In this talk, I will discuss how these large-scale studies have been supported at every level by the Bioconductor ecosystem and the bevy of tools available for genetics and single-cell genomics. I will also introduce the cardelino package (github.com/PMBio/cardelino) for the mapping of single-cell transcriptomes to a clonal tree and soon-to-be-added to the Bioconductor toolbox for single-cell data analysis.
