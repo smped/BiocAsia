@@ -23,6 +23,11 @@ An [etherpad site](https://pad.carpentries.org/BiocAsia2018) is also available f
 
 Rooms 261 & 263, Arts West, University of Melbourne
 
+- All participants are expected to bring their own laptops
+- WiFi access wll be through either eduroam or using the above login
+- Access to power sockets will be available so please bring your power adapter
+- Please ensure you are running a current browser (i.e. chrome, firefox etc)
+
 ### Provisional Timetable
 
 | Time | Room 261 (Beginner) | Room 263 (Intermediate) |
@@ -65,7 +70,7 @@ Room 556, Arts West, University of Melbourne
 |          | *Ms Sarah Williams* (Monash University) <br> [Celaref: Annotating single-cell RNAseq clusters by similarity to reference datasets](abstracts/williams.html) |
 |          | *Dr Saskia Freytag* (Walter & Eliza Hall Institute of Medical Research) <br> [Efforts towards a definitive pipeline for the analysis of matched single cell nuclei RNA-seq.](abstracts/freytag.html) |
 |          | *Ms Yingxin Lin* (University Of Sydney) <br> [scMerge: Integration of multiple single-cell transcriptomics datasets leveraging stable expression and pseudo-replication](abstracts/lin.html) |
-|          | *Dr Davis McCarthy* (St Vincent’s Institute of Medical Research) <br> [The ever-expanding and ever-improving Bioconductor ecosystem for single-cell data analysis](abstracts/maccarthy.html) |
+|          | *Dr Davis McCarthy* (St Vincent’s Institute of Medical Research) <br> [The ever-expanding and ever-improving Bioconductor ecosystem for single-cell data analysis](abstracts/mccarthy.html) |
 | 3:40pm - 4:10pm | **Afternoon Tea** | 
 | 4:10pm - 4:40pm | **Panel Discussion: Grand challenges in Single Cell Data Analysis** |
 |           | *Moderator:* Associate Professor Alicia Oshlack |
