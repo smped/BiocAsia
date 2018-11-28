@@ -19,6 +19,8 @@ Visitor Wi-Fi information:
 
 An [etherpad site](https://pad.carpentries.org/BiocAsia2018) is also available for any online discussion during the workshops
 
+To initiate a virtual machine go to http://courses.bioconductor.org
+
 ## Workshop Day: 29 November, 2018
 
 Rooms 261 & 263, Arts West, University of Melbourne
