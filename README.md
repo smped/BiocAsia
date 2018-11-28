@@ -34,7 +34,7 @@ Rooms 261 & 263, Arts West, University of Melbourne
 
 | Time | Room 261 (Beginner) | Room 263 (Intermediate) |
 |:--------------- |:----------------------------- |:----------------------------- |
-| 9:00am - 10:30am | [*An Introduction To Linear Models*](https://monashbioinformaticsplatform.github.io/r-linear-abacbs2018/) <br> Paul Harrison | *Building a Bioconductor Package* <br> Martin Morgan |
+| 9:00am - 10:30am | [*An Introduction To Linear Models*](https://monashbioinformaticsplatform.github.io/r-linear-abacbs2018/) <br> Paul Harrison | [*Building a Bioconductor Package*](https://github.com/Bioconductor/BiocIntro) <br> Martin Morgan |
 | 10:30am - 11:00am | **Morning Tea** <br> (Provided) |
 | 11:00am - 12:30pm | [*Genomic Ranges and plyranges*](https://sa-lee.github.io/plyranges/articles/common-tasks.html) <br> Stuart Lee |*classifyR* <br> Dario Strbenac and Shila Ghazanfar |
 | 12:30pm - 1:30pm | **Lunch**  | |
