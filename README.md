@@ -36,7 +36,7 @@ Rooms 261 & 263, Arts West, University of Melbourne
 |:--------------- |:----------------------------- |:----------------------------- |
 | 9:00am - 10:30am | [*An Introduction To Linear Models*](https://monashbioinformaticsplatform.github.io/r-linear-abacbs2018/) <br> Paul Harrison | [*Building a Bioconductor Package*](https://github.com/Bioconductor/BiocIntro) <br> Martin Morgan |
 | 10:30am - 11:00am | **Morning Tea** <br> (Provided) |
-| 11:00am - 12:30pm | [*Genomic Ranges and plyranges*](https://sa-lee.github.io/plyranges/articles/common-tasks.html) <br> Stuart Lee |*classifyR* <br> Dario Strbenac and Shila Ghazanfar |
+| 11:00am - 12:30pm | [*Genomic Ranges and plyranges*](https://sa-lee.github.io/plyranges/articles/common-tasks.html) <br> Stuart Lee |[*classifyR*](https://github.com/SydneyBioX/TrainClassifyR) <br> Dario Strbenac and Shila Ghazanfar |
 | 12:30pm - 1:30pm | **Lunch**  | |
 | 1:30pm - 3:00pm | *Bioconductor Annotation Packages* <br> Martin Morgan | *Single cell RNA-seq analysis* <br> Yunshun Chen |
 | 3:00pm - 3:40pm | *Differential binding analysis for ChIP-seq data* <br> Alex Garnham | *Differential analysis of HiC data with diffHic* <br> Hannah Coughlan |
