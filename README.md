@@ -38,7 +38,7 @@ Rooms 261 & 263, Arts West, University of Melbourne
 | 10:30am - 11:00am | **Morning Tea** <br> (Provided) |
 | 11:00am - 12:30pm | [*Genomic Ranges and plyranges*](https://sa-lee.github.io/plyranges/articles/common-tasks.html) <br> Stuart Lee |[*classifyR*](https://github.com/SydneyBioX/TrainClassifyR) <br> Dario Strbenac and Shila Ghazanfar |
 | 12:30pm - 1:30pm | **Lunch**  | |
-| 1:30pm - 3:00pm | *Bioconductor Annotation Packages* <br> Martin Morgan | *Single cell RNA-seq analysis* <br> Yunshun Chen |
+| 1:30pm - 3:00pm | *Bioconductor Annotation Packages* <br> Martin Morgan | [*Single cell RNA-seq analysis*](http://bioinf.wehi.edu.au/edgeR/10X.pdf) <br> Yunshun Chen |
 | 3:00pm - 3:40pm | *Differential binding analysis for ChIP-seq data* <br> Alex Garnham | *Differential analysis of HiC data with diffHic* <br> Hannah Coughlan |
 | 3:40pm - 4:10pm | **Afternoon Tea** <br> (Provided) | |
 | 4:10pm - 5:00pm | *Differential binding analysis for ChIP-seq data* <br> (continued) | *Differential analysis of HiC data with diffHic* <br> (continued) |
