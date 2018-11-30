@@ -53,7 +53,7 @@ Room 556, Arts West, University of Melbourne
 
 | Time | Topic |
 |:-------------- |:------------------------------------- |
-| 9:00am - 9:50am | *Professor Martin Morgan* <br> Project updates & Getting to know you |
+| 9:00am - 9:50am | *Professor Martin Morgan* <br> [Project updates](https://docs.google.com/presentation/d/1X2vEGelcjJYvq046ltRhPiwZixs9OfdiTxQoI_iyg4E/edit?usp=sharing) & Getting to know you |
 | 9:50am - 10:30am | **Lightning Talks** |
 |              | *Mr Shian Su* (Walter & Eliza Hall Institute of Medical Research) <br> CellBench: software for comparing single cell analyses |
 |              | *Dr Peter Hickey* (Walter & Eliza Hall Institute of Medical Research) <br> Using the Delayed Array framework for processing large datasets |
