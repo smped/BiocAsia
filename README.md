@@ -72,8 +72,8 @@ Room 556, Arts West, University of Melbourne
 | 2:20pm - 3:40pm  | **Research talks / Software demos** (II) | 
 |          | *Ms Sarah Williams* (Monash University) <br> [Celaref: Annotating single-cell RNAseq clusters by similarity to reference datasets](abstracts/williams.html) |
 |          | *Dr Saskia Freytag* (Walter & Eliza Hall Institute of Medical Research) <br> [Efforts towards a definitive pipeline for the analysis of matched single cell nuclei RNA-seq.](abstracts/freytag.html) |
-|          | *Ms Yingxin Lin* (University Of Sydney) <br> [scMerge: Integration of multiple single-cell transcriptomics datasets leveraging stable expression and pseudo-replication](abstracts/lin.html) |
-|          | *Dr Davis McCarthy* (St Vincent’s Institute of Medical Research) <br> [The ever-expanding and ever-improving Bioconductor ecosystem for single-cell data analysis](abstracts/mccarthy.html) |
+|          | *Ms Yingxin Lin* (University Of Sydney) <br> scMerge: Integration of multiple single-cell transcriptomics datasets leveraging stable expression and pseudo-replication <br> [Abstract](abstracts/lin.html) <br> [Presentation](https://yingxinlin.github.io/talk/biocasia2018/) |
+|          | *Dr Davis McCarthy* (St Vincent’s Institute of Medical Research) <br> [The ever-expanding and ever-improving Bioconductor ecosystem for single-cell data analysis](abstracts/mccarthy.html)|
 | 3:40pm - 4:10pm | **Afternoon Tea** | 
 | 4:10pm - 4:40pm | **Panel Discussion: Grand challenges in Single Cell Data Analysis** |
 |           | *Moderator:* Associate Professor Alicia Oshlack |
