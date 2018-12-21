@@ -62,18 +62,18 @@ Room 556, Arts West, University of Melbourne
 |              | *Dr Saskia Freytag* (Walter & Eliza Hall Institute of Medical Research) <br> dtangle: accurate and robust cell type deconvolution |
 | 10:30am - 11:00am |  **Morning Tea** |
 | 11:00am - 12:30pm | **Research talks / Software demos** (I) |
-|            | *Dr Peter Hickey* (Walter & Eliza Hall Institute of Medical Research) <br> [Getting help and helping others (including future you)](abstracts/hickey.html) |
-|            | *Mr Harry Fong* (CSL Ltd) <br> [abseqR: reporting and data analysis functionalities for Rep-Seq datasets of antibody libraries](abstracts/fong.html) |
-|           | *Dr Tim Peters* (Garvan Institute of Medical Research) <br> [A general framework for evaluating cross-platform concordance in genomic studies](abstracts/peters.html) |
+|            | *Dr Peter Hickey* (Walter & Eliza Hall Institute of Medical Research) <br> Getting help and helping others (including future you)[Abstract](abstracts/hickey.html) |
+|            | *Mr Harry Fong* (CSL Ltd) <br> abseqR: reporting and data analysis functionalities for Rep-Seq datasets of antibody libraries [Abstract](abstracts/fong.html) |
+|           | *Dr Tim Peters* (Garvan Institute of Medical Research) <br> A general framework for evaluating cross-platform concordance in genomic studies [Abstract](abstracts/peters.html) |
 |           | *Prof. Gordon Smyth* (Walter & Eliza Hall Institute of Medical Research) | |
 | 12:30pm - 1:30pm | **Lunch** |
 | 1:30pm - 2:20pm  | **Keynote presentation** |
-|                  | *Assistant Professor Stephanie Hicks* (Johns Hopkins University) <br> [Orchestrating Single-Cell RNA-Sequencing Analysis with Bioconductor](abstracts/hicks.html) | 
+|                  | *Assistant Professor Stephanie Hicks* (Johns Hopkins University) <br> Orchestrating Single-Cell RNA-Sequencing Analysis with Bioconductor [Abstract](abstracts/hicks.html) | 
 | 2:20pm - 3:40pm  | **Research talks / Software demos** (II) | 
-|          | *Ms Sarah Williams* (Monash University) <br> [Celaref: Annotating single-cell RNAseq clusters by similarity to reference datasets](abstracts/williams.html) |
-|          | *Dr Saskia Freytag* (Walter & Eliza Hall Institute of Medical Research) <br> [Efforts towards a definitive pipeline for the analysis of matched single cell nuclei RNA-seq.](abstracts/freytag.html) |
-|          | *Ms Yingxin Lin* (University Of Sydney) <br> scMerge: Integration of multiple single-cell transcriptomics datasets leveraging stable expression and pseudo-replication <br> [Abstract](abstracts/lin.html) <br> [Presentation](https://yingxinlin.github.io/talk/biocasia2018/) |
-|          | *Dr Davis McCarthy* (St Vincent’s Institute of Medical Research) <br> [The ever-expanding and ever-improving Bioconductor ecosystem for single-cell data analysis](abstracts/mccarthy.html)|
+|          | *Ms Sarah Williams* (Monash University) <br> Celaref: Annotating single-cell RNAseq clusters by similarity to reference datasets [Abstract](abstracts/williams.html) |
+|          | *Dr Saskia Freytag* (Walter & Eliza Hall Institute of Medical Research) <br> Efforts towards a definitive pipeline for the analysis of matched single cell nuclei RNA-seq.[Abstract](abstracts/freytag.html) |
+|          | *Ms Yingxin Lin* (University Of Sydney) <br> scMerge: Integration of multiple single-cell transcriptomics datasets leveraging stable expression and pseudo-replication <br> [Abstract](abstracts/lin.html) &emsp; [Presentation](https://yingxinlin.github.io/talk/biocasia2018/) |
+|          | *Dr Davis McCarthy* (St Vincent’s Institute of Medical Research) <br> The ever-expanding and ever-improving Bioconductor ecosystem for single-cell data analysis [Abstract](abstracts/mccarthy.html)|
 | 3:40pm - 4:10pm | **Afternoon Tea** | 
 | 4:10pm - 4:40pm | **Panel Discussion: Grand challenges in Single Cell Data Analysis** |
 |           | *Moderator:* Associate Professor Alicia Oshlack |
