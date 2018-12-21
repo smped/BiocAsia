@@ -62,13 +62,13 @@ Room 556, Arts West, University of Melbourne
 |              | *Dr Saskia Freytag* (Walter & Eliza Hall Institute of Medical Research) <br> dtangle: accurate and robust cell type deconvolution |
 | 10:30am - 11:00am |  **Morning Tea** |
 | 11:00am - 12:30pm | **Research talks / Software demos** (I) |
-|            | *Dr Peter Hickey* (Walter & Eliza Hall Institute of Medical Research) <br> Getting help and helping others (including future you)[Abstract](abstracts/hickey.html) |
+|            | *Dr Peter Hickey* (Walter & Eliza Hall Institute of Medical Research) <br> Getting help and helping others (including future you)[Abstract](abstracts/hickey.html) &emsp; [Presentation](https://www.peterhickey.org/talk/2018-11-30-biocasia_2018/)|
 |            | *Mr Harry Fong* (CSL Ltd) <br> abseqR: reporting and data analysis functionalities for Rep-Seq datasets of antibody libraries [Abstract](abstracts/fong.html) |
 |           | *Dr Tim Peters* (Garvan Institute of Medical Research) <br> A general framework for evaluating cross-platform concordance in genomic studies [Abstract](abstracts/peters.html) |
 |           | *Prof. Gordon Smyth* (Walter & Eliza Hall Institute of Medical Research) | |
 | 12:30pm - 1:30pm | **Lunch** |
 | 1:30pm - 2:20pm  | **Keynote presentation** |
-|                  | *Assistant Professor Stephanie Hicks* (Johns Hopkins University) <br> Orchestrating Single-Cell RNA-Sequencing Analysis with Bioconductor [Abstract](abstracts/hicks.html) | 
+|                  | *Assistant Professor Stephanie Hicks* (Johns Hopkins University) <br> Orchestrating Single-Cell RNA-Sequencing Analysis with Bioconductor [Abstract](abstracts/hicks.html) &emsp; [Presentation](https://speakerdeck.com/stephaniehicks/orchestrating-single-cell-rna-sequencing-analysis-with-bioconductor) | 
 | 2:20pm - 3:40pm  | **Research talks / Software demos** (II) | 
 |          | *Ms Sarah Williams* (Monash University) <br> Celaref: Annotating single-cell RNAseq clusters by similarity to reference datasets [Abstract](abstracts/williams.html) |
 |          | *Dr Saskia Freytag* (Walter & Eliza Hall Institute of Medical Research) <br> Efforts towards a definitive pipeline for the analysis of matched single cell nuclei RNA-seq.[Abstract](abstracts/freytag.html) |
