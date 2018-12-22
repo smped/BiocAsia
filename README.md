@@ -63,7 +63,7 @@ Room 556, Arts West, University of Melbourne
 | 10:30am - 11:00am |  **Morning Tea** |
 | 11:00am - 12:30pm | **Research talks / Software demos** (I) |
 |            | *Dr Peter Hickey* (Walter & Eliza Hall Institute of Medical Research) <br> Getting help and helping others (including future you) <br> [Abstract](abstracts/hickey.html) &emsp; [Presentation](https://www.peterhickey.org/talk/2018-11-30-biocasia_2018/)|
-|            | *Mr Harry Fong* (CSL Ltd) <br> abseqR: reporting and data analysis functionalities for Rep-Seq datasets of antibody libraries <br> [Abstract](abstracts/fong.html) |
+|            | *Mr Harry Fong* (CSL Ltd) <br> abseqR: reporting and data analysis functionalities for Rep-Seq datasets of antibody libraries <br> [Abstract](abstracts/fong.html) &emsp; [Presentation](presentations/biocAsia_2018_Harry_Fong.pdf)|
 |           | *Dr Tim Peters* (Garvan Institute of Medical Research) <br> A general framework for evaluating cross-platform concordance in genomic studies <br> [Abstract](abstracts/peters.html) &emsp; [Presentation](presentations/biocAsia_2018_Tim_Peters.pdf)|
 |           | *Prof. Gordon Smyth* (Walter & Eliza Hall Institute of Medical Research) | |
 | 12:30pm - 1:30pm | **Lunch** |
