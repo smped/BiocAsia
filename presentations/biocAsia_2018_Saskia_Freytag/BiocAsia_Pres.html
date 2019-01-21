@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>efforts towards a definitive workflow for the analysis of matched single nuclei RNA-seq</title>
+    <meta charset="utf-8">
+    <meta name="author" content="saskia freytag" />
+    <link href="libs/remark-css/default.css" rel="stylesheet" />
+    <link href="libs/remark-css/default-fonts.css" rel="stylesheet" />
+    <link href="libs/font-awesome/css/fontawesome-all.min.css" rel="stylesheet" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# efforts towards a definitive workflow for the analysis of matched single nuclei RNA-seq
+## 😅 🛠 📊👆☀� 〰
+### saskia freytag
+### <i class="fab  fa-twitter " style="color:#00000;"></i> @ trashystats
+
+---
+
+
+
+
+
+# workflow for analysis of scRNA-seq 
+
+
+.center[
+&lt;img src="BiocAsia_Pres_files/workflow.png" width="1204" /&gt;
+]
+
+---
+
+class: center
+
+
+&lt;img src="BiocAsia_Pres_files/tween9.gif" width="80%" /&gt;
+
+---
+
+class: inverse, center, middle
+
+# but what if the design is more complex?
+## 😱💣💥 
+
+---
+
+# fcd - interrupted cortical development 
+
+.center[
+&lt;img src="BiocAsia_Pres_files/fcd.png" width="80%" /&gt;
+]
+
+---
+
+# lesion centre contains more bizarre cells 
+
+.center[
+&lt;img src="BiocAsia_Pres_files/density.png" width="100%" /&gt;
+]
+
+---
+
+# utilizing snRNA-seq to study bizarre cells 
+.center[
+&lt;img src="BiocAsia_Pres_files/design.png" width="100%" /&gt;
+]
+
+---
+# requirements for a workflow 
+
+.centre[
+1. include multiple individuals
+
+1. allow for heterogeneity between individuals
+
+1. use centre and rim distinction
+
+]
+
+.centre[
+&lt;img src="BiocAsia_Pres_files/idea.png" width="50%" /&gt;
+]
+
+---
+# a complex workflow
+
+.centre[
+&lt;img src="BiocAsia_Pres_files/workflow1.png" width="100%" /&gt;
+]
+
+---
+
+# a complex workflow requires many tools
+
+.centre[
+&lt;img src="BiocAsia_Pres_files/workflow2.png" width="100%" /&gt;
+]
+
+---
+
+class: inverse, center, middle
+
+# lessons learned
+## 🎉😁
+
+---
+
+# filter together to preserve genes 
+
+this is a bad idea, because it filters **exactly** the genes that we are interested in:
+
+
+```r
+sce_rim &lt;- load_cellranger_matrix("rim")
+sce_centre &lt;- load_cellranger_matrix("centre")
+
+# some conversion steps and other filtering
+
+keep_rim &lt;- nexprs(sce_rim, 
+    byrow=TRUE) &gt;= 0.01*dim(sce_rim)[1]
+keep_centre &lt;- nexprs(sce_rim, 
+    byrow=TRUE) &gt;= 0.01*dim(sce_centre)[1]
+
+sce_rim &lt;- sce_rim[keep_rim , ]
+sce_centre &lt;- sce_centre[keep_centre , ]
+```
+
+---
+
+# filter together to preserve genes 
+
+this is a better idea:
+
+
+```r
+sce_rim &lt;- load_cellranger_matrix("rim")
+sce_centre &lt;- load_cellranger_matrix("centre")
+
+counts &lt;- as(cbind(exprs(sce_rim), exprs(sce_centre)), "matrix")
+colnames(counts) &lt;- c(gsub("-1", "-R", colnames(exprs(sce_rim))), 
+      gsub("-1", "-C", colnames(exprs(sce_centre)))) 
+
+colData &lt;- rbind(as(phenoData(sce_rim), 'data.frame'), 
+      as(phenoData(sce_centre), 'data.frame'))
+rownames(colData) &lt;- c(gsub("-1", "-R", colnames(exprs(sce_rim))),
+      gsub("-1", "-C", colnames(exprs(sce_centre)))) 
+
+sce &lt;- SingleCellExperiment(assays = list(counts = counts),
+      colData = colData, rowData=as(featureData(sce_rim), 
+      'data.frame'))
+
+#then filter
+```
+
+---
+
+# mitochondrial content found in nuclei
+
+.centre[
+&lt;img src="BiocAsia_Pres_files/mito.png" width="70%" /&gt;
+]
+
+**probably** not a revelation, but just remember
+
+
+```r
+rowData(sce)$Mito &lt;- grepl("^MT-", rowData(sce)$symbol)
+sce &lt;- sce[! rowData(sce)$Mito , ]
+```
+
+---
+
+# interactivity improves annotation
+
+.centre[
+&lt;img src="BiocAsia_Pres_files/Interactive2.gif" width="80%" /&gt;
+]
+
+---
+class: inverse, center, middle
+
+# problems encountered
+## 💔😡
+
+---
+
+# object conversions can be tricky
+
+this mostly works
+
+
+```r
+seurat_data &lt;- Seurat::Convert(sce, "seurat")
+```
+
+this often misses crucial information (after `Seurat` operations)
+
+
+```r
+sce &lt;- Seurat::Convert(seurat_data, "SingleCellExperiment")
+```
+
+but a **solution** might be the `BioSeurat` 📦 
+
+finally this produces sub-optimal results in monocle 3 alpha
+
+
+```r
+monocle_data &lt;- scran::convertTo(sce, type="monocle")
+```
+
+convert manually by initializing new objects
+
+---
+
+background-image: url(https://media2.giphy.com/media/xT9KVmINRKGsIzd0YM/giphy.gif?cid=3640f6095bfe1b39435575775100bb6b)
+background-position: 50% 50%
+class: center, bottom, inverse
+
+# python 🐍 for the win!
+
+---
+
+# for multiple datasets - python is 🗝
+
+.centre[
+&lt;img src="BiocAsia_Pres_files/python.png" width="80%" /&gt;
+]
+
+---
+
+class: inverse, center, middle
+
+# some results
+## 💯🏆
+
+---
+
+# umap plot of all the data
+
+.centre[
+&lt;img src="BiocAsia_Pres_files/umap1.png" width="100%" /&gt;
+]
+
+---
+
+# some separation by sample
+
+.centre[
+&lt;img src="BiocAsia_Pres_files/umap2.png" width="100%" /&gt;
+]
+
+---
+
+# identifying bizarre cells
+
+.centre[
+&lt;img src="BiocAsia_Pres_files/UMAP.png" width="100%" /&gt;
+]
+
+---
+
+# marker genes indicate bizarre cells
+
+.centre[
+&lt;img src="BiocAsia_Pres_files/umap4.png" width="100%" /&gt;
+]
+
+---
+
+# summary
+
+* lots of work remains to be done, i.e. a living-breathing workflow
+  * close collaboration helps improve workflow 
+
+* currently no workflows to deal with snRNA-seq from multiple indviduals each with matched samples
+  * cancer applications: tumour - normal matched samples 
+
+* sometimes <i class="fab  fa-r-project "></i> is too slow in exploration stage
+  * many iterations, more than 20,000 cells/nuclei
+
+
+---
+
+class: center, middle
+
+# Thanks!
+
+In particular to 👩🏼
+🔬: Wei Shern Lee, Sarah Stephenson, Richard Leventer, Simon Harvey, Wriginia Maixner, Melanie Bahlo, Paul Lockhart, Brendan Ansell
+
+And 🏢: WEHI, MCRI, RCH
+
+## 🤷🎤
+    </textarea>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function() {
+  var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})();</script>
+
+<script>
+(function() {
+  var i, text, code, codes = document.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+})();
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
