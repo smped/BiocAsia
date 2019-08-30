@@ -10,10 +10,60 @@ Charles Perkins Center, Sydney, NSW, Australia
 This year a large portion of the BioC Asia conference will be shared with AMSI's
 [BioInfoSummer](https://bis.amsi.org.au/). 
 
+Note that the annual [ABACBS conference](https://www.abacbs.org/conference2019/about),
+this year joined with GIW, will be held the following week (9-11 of December) in Sydney.
+
+## Location
+
+The conference will be held at the [Charles Perkins Center](https://sydney.edu.au/charles-perkins-centre/):
+
+John Hopkins Drive, 
+The University of Sydney,
+Sydney, NSW 2006
+
+
+## Keynote Speakers
+
+We are pleased to annouce two international keynote speakers:
+
+<p float="left">
+  <img src="images/helena.jpeg" width="200" hspace="50" title="Helena Crowell"/>
+  <img src="images/martin_morgan.jpg" width="200" title="Martin Morgan"/> 
+</p>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Helena Crowell**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Martin Morgan**
+
+**Helena Crowell**: Helena earned her undergraduate degree at the Univeristy of Heidelberg in 
+Biochemistry. She then went on to earn her Master's degree in Computational Biology & Bioinformatics 
+at the ETH Zurich. She is currently a PhD candidate in Statistical Bioinformatics at the University of
+Zurich.
+
+Helena focuses on developing analysis frameworks for CyTOF data and differential discovery in scRNA-seq data. She is the author of a popular Bioconductor package providing tools for preprocessing and analysis of cytometry data.
+
+**Martin Morgan**: Martin earned his undergraduate and Master's degrees in Botany at the University of Toronto. Martin's PhD studies at the University of Chicago involved the evolutionary consequences of frequency-dependent selection, and of multilocus deleterious mutation. Martin is currently at the Roswell Park Comprehensive Cancer Center in Buffalo.
+
+Martin leads the core team that maintains the Bioconductor project. He is the author of many Bioconductor packages and a renowned biostatistican.
+
+
+## Invited Speakers
+
+TBC
+
+## Abstract Submission
+
+The conference will also feature selected talks (15mins) and lightning talks (5mins). We invite you
+to submit your abstract via our google form.
+
 ## Workshops
 
+There will be 6 workshops, 3 advanced and 3 intermediate, to be held on Thursday
+and Friday afternoon. All workshops are open to BioInfoSummer participants. For 
+the workshops please note that:
+
 - All participants are expected to bring their own laptops
-- WiFi access wll be through either eduroam or using the above login
+- All participants are expected to have followed the installation instructions 
+- WiFi access will be through either eduroam or using a login
 - Access to power sockets will be available so please bring your power adapter
 - Please ensure you are running a current browser (i.e. chrome, firefox etc)
 
@@ -24,13 +74,13 @@ This year a large portion of the BioC Asia conference will be shared with AMSI's
 | Time | Intermediate Stream | Advanced Stream |
 |:--------------- |:----------------------------- |:----------------------------- |
 | 8:45am - 9:00am | Registration <br> |
-| 9:00am - 10:30am | Conference presentations <br> (1 keynote, selected talks)|
+| 9:00am - 10:30am | Conference presentations <br> (1 invited talk, selected talks)|
 | 10:30am - 11:00am | **Morning Tea** <br> (Provided) |
-| 11:00am - 12:30pm | Conference presentations <br> (1 keynote, selected talks)|
+| 11:00am - 12:30pm | Conference presentations <br> (1 invited talk, selected talks)|
 | 12:30pm - 1:30pm | **Lunch**  | |
 | 1:30pm - 3:30pm | Workshop 1 <br> (joined with BioinfoSummer) | Workshop 2 <br> (joined with BioinfoSummer) |
 | 3:30pm - 4:00pm | **Afternoon Tea** <br> (Provided) | |
-| 4:00pm - 5:00pm | Workshop 1/3 <br> (joined with BioinfoSummer) | Workshop 2/4 <br> (joined with BioinfoSummer) |
+| 4:00pm - 5:00pm | Workshop 3 <br> (joined with BioinfoSummer) | Workshop 4 <br> (joined with BioinfoSummer) |
 | 6:00pm - 7:30pm | Public Lecture <br> (joined with BioinfoSummer) | Pub <br> |
 
 ## Friday: 6 December, 2019
