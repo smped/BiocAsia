@@ -52,7 +52,8 @@ TBC
 
 ## Abstract Submission
 
-The conference will also feature selected talks (15mins) and lightning talks (5mins). We invite you
+The conference will also feature selected talks (15mins) and lightning talks (5mins),
+as well as software demos (5mins). We invite you
 to submit your abstract via our google form.
 
 ## Workshops
@@ -78,9 +79,10 @@ the workshops please note that:
 | 10:30am - 11:00am | **Morning Tea** <br> (Provided) |
 | 11:00am - 12:30pm | Conference presentations <br> (1 invited talk, selected talks)|
 | 12:30pm - 1:30pm | **Lunch**  | |
-| 1:30pm - 3:30pm | Workshop 1 <br> (joined with BioinfoSummer) | Workshop 2 <br> (joined with BioinfoSummer) |
-| 3:30pm - 4:00pm | **Afternoon Tea** <br> (Provided) | |
-| 4:00pm - 5:00pm | Workshop 3 <br> (joined with BioinfoSummer) | Workshop 4 <br> (joined with BioinfoSummer) |
+| 1:30pm - 3:00pm | Workshop 1 <br> (joined with BioinfoSummer) | Workshop 2 <br> (joined with BioinfoSummer) |
+| 3:00pm - 3:30pm | **Afternoon Tea** <br> (Provided) | |
+| 3:30pm - 4:30pm | Workshop 3 <br> (joined with BioinfoSummer) | Workshop 4 <br> (joined with BioinfoSummer) |
+| 4:30pm - 5:45am | Conference presentations <br> (lightning talks)|
 | 6:00pm - 7:30pm | Public Lecture <br> (joined with BioinfoSummer) | Pub <br> |
 
 ## Friday: 6 December, 2019
@@ -90,10 +92,12 @@ the workshops please note that:
 | Time | Intermediate Stream | Advanced Stream |
 |:--------------- |:----------------------------- |:----------------------------- |
 | 8:45am - 9:00am | Registration <br> |
-| 9:00am - 10:30am | Conference presentations <br> (Martin Morgan, lightning talks)|
+| 9:00am - 10:30am | Conference presentations <br> (Martin Morgan, Elanie Fertig)|
 | 10:30am - 11:00am | **Morning Tea** <br> (Provided) |
-| 11:00am - 12:30pm | Conference presentations <br> (Helena Crowell, lightning talks)|
+| 11:00am - 12:30pm | Conference presentations <br> (TBA, Simon Poon, software demos)|
 | 12:30pm - 1:30pm | **Lunch**  | |
 | 1:30pm - 3:30pm | Workshop 5 <br> (joined with BioinfoSummer) | Workshop 6 <br> (joined with BioinfoSummer) |
-| 15:30pm - 4:00pm | **Closing Remarks** |
+| 3:30pm - 3:50pm | **Afternoon Tea** <br> (Provided) | |
+| 3:50pm - 4:45pm | Conference presentations <br> (Helena Crowell)|
+| 4:45pm - 5:00pm | **Closing Remarks** |
 
