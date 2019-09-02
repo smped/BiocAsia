@@ -21,7 +21,6 @@ John Hopkins Drive,
 The University of Sydney,
 Sydney, NSW 2006
 
-
 ## Keynote Speakers
 
 We are pleased to annouce two international keynote speakers:
@@ -45,16 +44,17 @@ Helena focuses on developing analysis frameworks for CyTOF data and differential
 
 Martin leads the core team that maintains the Bioconductor project. He is the author of many Bioconductor packages and a renowned biostatistican.
 
-
 ## Invited Speakers
 
 TBC
 
 ## Abstract Submission
 
-The conference will also feature selected talks (15mins) and lightning talks (5mins),
-as well as software demos (5mins). We invite you
-to submit your abstract via our google form.
+Abstract submission is now open and will close on September 20 (11:59PM AEST).
+The conference will also feature selected talks (15mins), lightning talks (5mins), software demos (5mins), and workshops (60 - 120 mins). 
+
+- Submit an abstract for a lightning talk, software demo, or selected talk [here](https://docs.google.com/forms/d/e/1FAIpQLScr9cwCXeMhjvixh38u2H84Xa43ThDhrhuYLCH-BWuN5uFXJA/viewform?usp=sf_link).
+- Submit an abstract for a workshop [here](https://docs.google.com/forms/d/e/1FAIpQLSceksMuiS7cGFv2Ms0B3hSx-QC8zuEfgEEbu51293Kv6o0xEQ/viewform?usp=sf_link).
 
 ## Workshops
 
@@ -67,6 +67,13 @@ the workshops please note that:
 - WiFi access will be through either eduroam or using a login
 - Access to power sockets will be available so please bring your power adapter
 - Please ensure you are running a current browser (i.e. chrome, firefox etc)
+
+## Travel Awards
+
+There will be a number of travel awards to support student and early career researchers.
+You must submit an abstract for a talk, software demo, or workshop to be eligible for a travel award.
+
+- Submit an application for a travel award [here](https://docs.google.com/forms/d/e/1FAIpQLSdFR0c-eq5RLMeV0AtA4xTwqEeKp-trmhzEkdxdvKOCqnxfvg/viewform?usp=sf_link).
 
 ## Thursday: 5 December, 2019
 
@@ -82,7 +89,7 @@ the workshops please note that:
 | 1:30pm - 3:00pm | Workshop 1 <br> (joined with BioinfoSummer) | Workshop 2 <br> (joined with BioinfoSummer) |
 | 3:00pm - 3:30pm | **Afternoon Tea** <br> (Provided) | |
 | 3:30pm - 4:30pm | Workshop 3 <br> (joined with BioinfoSummer) | Workshop 4 <br> (joined with BioinfoSummer) |
-| 4:30pm - 5:45am | Conference presentations <br> (lightning talks)|
+| 4:30pm - 5:45pm | Conference presentations <br> (lightning talks)|
 | 6:00pm - 7:30pm | Public Lecture <br> (joined with BioinfoSummer) | Pub <br> |
 
 ## Friday: 6 December, 2019
