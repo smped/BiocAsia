@@ -25,13 +25,9 @@ Sydney, NSW 2006
 
 We are pleased to annouce two international keynote speakers:
 
-<p float="left">
-  <img src="images/helena.jpeg" width="200" hspace="50" title="Helena Crowell"/>
-  <img src="images/martin_morgan.jpg" width="200" title="Martin Morgan"/> 
+<p float="center">
+  <img src="images/helena.jpeg" width="200" title="Helena Crowell"/>
 </p>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Helena Crowell**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Martin Morgan**
 
 **Helena Crowell**: Helena earned her undergraduate degree at the Univeristy of Heidelberg in 
 Biochemistry. She then went on to earn her Master's degree in Computational Biology & Bioinformatics 
@@ -40,18 +36,26 @@ Zurich.
 
 Helena focuses on developing analysis frameworks for CyTOF data and differential discovery in scRNA-seq data. She is the author of a popular Bioconductor package providing tools for preprocessing and analysis of cytometry data.
 
+<p float="center">
+  <img src="images/martin_morgan.jpg" width="200" title="Martin Morgan"/> 
+</p>
+
 **Martin Morgan**: Martin earned his undergraduate and Master's degrees in Botany at the University of Toronto. Martin's PhD studies at the University of Chicago involved the evolutionary consequences of frequency-dependent selection, and of multilocus deleterious mutation. Martin is currently at the Roswell Park Comprehensive Cancer Center in Buffalo.
 
 Martin leads the core team that maintains the Bioconductor project. He is the author of many Bioconductor packages and a renowned biostatistican.
 
 ## Invited Speakers
 
-TBC
+**Elana Fertig**, Johns Hopkins University
+
+**Simon Poon**, University of Sydney
+
+More invited speakers will be announced closer to the date.
 
 ## Presentations
 
 The conference will feature selected talks (15mins), lightning talks (5mins), and software demos (5mins).
-Abstract submission is now open and will close on September 20 (11:59PM AEST).
+<span style="color:green">*Abstract submission is now open and will close on September 20 (11:59PM AEST).*</span>
 
 - Submit an abstract for a lightning talk, software demo, or selected talk [here](https://docs.google.com/forms/d/e/1FAIpQLScr9cwCXeMhjvixh38u2H84Xa43ThDhrhuYLCH-BWuN5uFXJA/viewform?usp=sf_link).
 
@@ -59,7 +63,7 @@ Abstract submission is now open and will close on September 20 (11:59PM AEST).
 
 There will be 6 workshops, 3 advanced and 3 intermediate, to be held on Thursday
 and Friday afternoon.
-Abstract submission is now open and will close on September 20 (11:59PM AEST).
+<span style="color:green">*Abstract submission is now open and will close on September 20 (11:59PM AEST).*</span>
 
 - Submit an abstract for a workshop [here](https://docs.google.com/forms/d/e/1FAIpQLSceksMuiS7cGFv2Ms0B3hSx-QC8zuEfgEEbu51293Kv6o0xEQ/viewform?usp=sf_link).
 
@@ -76,7 +80,7 @@ the workshops please note that:
 
 There will be a number of travel awards available, with priority given to support students and early career researchers.
 You must submit an abstract for a talk, software demo, or workshop to be eligible for a travel award.
-Travel award applications are now open and will close on September 20 (11:59PM AEST).
+<span style="color:green">*Travel award applications are now open and will close on September 20 (11:59PM AEST).*</span>
 
 - Submit an application for a travel award [here](https://docs.google.com/forms/d/e/1FAIpQLSdFR0c-eq5RLMeV0AtA4xTwqEeKp-trmhzEkdxdvKOCqnxfvg/viewform?usp=sf_link).
 
@@ -104,7 +108,7 @@ Travel award applications are now open and will close on September 20 (11:59PM A
 | Time | Intermediate Stream | Advanced Stream |
 |:--------------- |:----------------------------- |:----------------------------- |
 | 8:45am - 9:00am | Registration <br> |
-| 9:00am - 10:30am | Conference presentations <br> (Martin Morgan, Elanie Fertig)|
+| 9:00am - 10:30am | Conference presentations <br> (Martin Morgan, Elana Fertig)|
 | 10:30am - 11:00am | **Morning Tea** <br> (Provided) |
 | 11:00am - 12:30pm | Conference presentations <br> (TBA, Simon Poon, software demos)|
 | 12:30pm - 1:30pm | **Lunch**  | |
