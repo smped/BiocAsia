@@ -70,7 +70,7 @@ the workshops please note that:
 
 ## Travel Awards
 
-There will be a number of travel awards to support student and early career researchers.
+There will be a number of travel awards available, with priority given to support students and early career researchers.
 You must submit an abstract for a talk, software demo, or workshop to be eligible for a travel award.
 
 - Submit an application for a travel award [here](https://docs.google.com/forms/d/e/1FAIpQLSdFR0c-eq5RLMeV0AtA4xTwqEeKp-trmhzEkdxdvKOCqnxfvg/viewform?usp=sf_link).
