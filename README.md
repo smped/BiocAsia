@@ -53,8 +53,6 @@ Martin leads the core team that maintains the Bioconductor project. He is the au
 
 **Elana Fertig**, Johns Hopkins University
 
-**Simon Poon**, University of Sydney
-
 More invited speakers will be announced closer to the date.
 
 ## Presentations
@@ -98,8 +96,8 @@ You must submit an abstract for a talk, software demo, or workshop to be eligibl
 | 8:45am - 9:00am | Registration <br> |
 | 9:00am - 10:30am | Conference presentations <br> (1 invited talk, selected talks)|
 | 10:30am - 11:00am | **Morning Tea** <br> (Provided) |
-| 11:00am - 12:30pm | Conference presentations <br> (1 invited talk, selected talks)|
-| 12:30pm - 1:30pm | **Lunch**  | |
+| 11:00am - 12:15pm | Conference presentations <br> (1 invited talk, selected talks)|
+| 12:15pm - 1:30pm | **Lunch**  | |
 | 1:30pm - 3:00pm | Workshop 1 <br> (joined with BioinfoSummer) | Workshop 2 <br> (joined with BioinfoSummer) |
 | 3:00pm - 3:30pm | **Afternoon Tea** <br> (Provided) | |
 | 3:30pm - 4:30pm | Workshop 3 <br> (joined with BioinfoSummer) | Workshop 4 <br> (joined with BioinfoSummer) |
@@ -113,12 +111,25 @@ You must submit an abstract for a talk, software demo, or workshop to be eligibl
 | Time | Intermediate Stream | Advanced Stream |
 |:--------------- |:----------------------------- |:----------------------------- |
 | 8:45am - 9:00am | Registration <br> |
-| 9:00am - 10:30am | Conference presentations <br> (Martin Morgan, Elana Fertig)|
+| 9:00am - 10:30am | Conference presentations <br> (Martin Morgan, selected talks, TBA)|
 | 10:30am - 11:00am | **Morning Tea** <br> (Provided) |
-| 11:00am - 12:30pm | Conference presentations <br> (TBA, Simon Poon, software demos)|
+| 11:00am - 12:30pm | Conference presentations <br> (Helena Crowell, software demos)|
 | 12:30pm - 1:30pm | **Lunch**  | |
 | 1:30pm - 3:30pm | Workshop 5 <br> (joined with BioinfoSummer) | Workshop 6 <br> (joined with BioinfoSummer) |
 | 3:30pm - 3:50pm | **Afternoon Tea** <br> (Provided) | |
-| 3:50pm - 4:45pm | Conference presentations <br> (Helena Crowell)|
+| 3:50pm - 4:45pm | Conference presentations <br> (Elana Fertig)|
 | 4:45pm - 5:00pm | **Closing Remarks** |
 
+## Contact
+
+### In Case of Questions
+
+If you have any question regarding the conference please email Peter via
+<span style="color:blue">hickey@wehi.edu.au</span>.
+
+### Conference Committee
+
+* Peter Hickey, The Walter and Eliza Hall Institute
+* Saskia Freytag, The Harry Perkins Institute
+* Dario Strbenac, University of Sydney
+* Stephen Pederson, University of Adelaide
