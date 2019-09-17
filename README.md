@@ -53,7 +53,11 @@ Martin leads the core team that maintains the Bioconductor project. He is the au
 
 **Elana Fertig**, Johns Hopkins University
 
-More invited speakers will be announced closer to the date.
+**Joshua Ho**, The University of Hong Kong
+
+**John Marioni**, The University of Cambridge
+
+**Shila Ghazanfar**, The University of Cambridge
 
 ## Presentations
 
@@ -94,14 +98,14 @@ You must submit an abstract for a talk, software demo, or workshop to be eligibl
 | Time | Intermediate Stream | Advanced Stream |
 |:--------------- |:----------------------------- |:----------------------------- |
 | 8:45am - 9:00am | Registration <br> |
-| 9:00am - 10:30am | Conference presentations <br> (1 invited talk, selected talks)|
+| 9:00am - 10:30am | Conference presentations <br> (John Marioni, selected talks)|
 | 10:30am - 11:00am | **Morning Tea** <br> (Provided) |
-| 11:00am - 12:15pm | Conference presentations <br> (1 invited talk, selected talks)|
+| 11:00am - 12:15pm | Conference presentations <br> (Joshua Ho, selected talks)|
 | 12:15pm - 1:30pm | **Lunch**  | |
 | 1:30pm - 3:00pm | Workshop 1 <br> (joined with BioinfoSummer) | Workshop 2 <br> (joined with BioinfoSummer) |
 | 3:00pm - 3:30pm | **Afternoon Tea** <br> (Provided) | |
 | 3:30pm - 4:30pm | Workshop 3 <br> (joined with BioinfoSummer) | Workshop 4 <br> (joined with BioinfoSummer) |
-| 4:30pm - 5:45pm | Conference presentations <br> (lightning talks)|
+| 4:30pm - 5:45pm | Conference presentations <br> (Shila Ghazanfar, lightning talks)|
 | 6:00pm - 7:30pm | Public Lecture <br> (joined with BioinfoSummer) | Pub <br> |
 
 ## Friday: 6 December, 2019
@@ -124,7 +128,7 @@ You must submit an abstract for a talk, software demo, or workshop to be eligibl
 
 ### In Case of Questions
 
-If you have any question regarding the conference please email Peter via
+If you have any questions regarding the conference please email Peter via
 <span style="color:blue">hickey@wehi.edu.au</span>.
 
 ### Conference Committee
