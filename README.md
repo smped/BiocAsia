@@ -62,7 +62,7 @@ Martin leads the core team that maintains the Bioconductor project. He is the au
 ## Presentations
 
 The conference will feature selected talks (15mins), lightning talks (5mins), and software demos (5mins).
-<span style="color:green">*Abstract submission is extended and will close on September 20 (11:59PM AEST).*</span>
+<span style="color:green">*Abstract submission is extended and will close on September 31 (11:59PM AEST).*</span>
 
 - Submit an abstract for a lightning talk, software demo, or selected talk [here](https://docs.google.com/forms/d/e/1FAIpQLScr9cwCXeMhjvixh38u2H84Xa43ThDhrhuYLCH-BWuN5uFXJA/viewform?usp=sf_link).
 
