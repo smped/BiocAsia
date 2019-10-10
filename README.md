@@ -62,17 +62,15 @@ Martin leads the core team that maintains the Bioconductor project. He is the au
 ## Presentations
 
 The conference will feature selected talks (15mins), lightning talks (5mins), and software demos (5mins).
-<span style="color:green">*Abstract submission is extended and will close on September 31 (11:59PM AEST).*</span>
 
-- Submit an abstract for a lightning talk, software demo, or selected talk [here](https://docs.google.com/forms/d/e/1FAIpQLScr9cwCXeMhjvixh38u2H84Xa43ThDhrhuYLCH-BWuN5uFXJA/viewform?usp=sf_link).
+<span style="color:red">*Abstract submission has closed.*</span>
 
 ## Workshops
 
 There will be 6 workshops, 3 advanced and 3 intermediate, to be held on Thursday
 and Friday afternoon.
-<span style="color:green">*Abstract submission is extended and will close on September 31 (11:59PM AEST).*</span>
 
-- Submit an abstract for a workshop [here](https://docs.google.com/forms/d/e/1FAIpQLSceksMuiS7cGFv2Ms0B3hSx-QC8zuEfgEEbu51293Kv6o0xEQ/viewform?usp=sf_link).
+<span style="color:red">*Abstract submission has closed.*</span>
 
 All workshops are open to BioInfoSummer participants. For 
 the workshops please note that:
@@ -87,9 +85,8 @@ the workshops please note that:
 
 There will be a number of travel awards available, with priority given to support students and early career researchers.
 You must submit an abstract for a talk, software demo, or workshop to be eligible for a travel award.
-<span style="color:green">*Travel award applications are extended and will close on September 31 (11:59PM AEST).*</span>
 
-- Submit an application for a travel award [here](https://docs.google.com/forms/d/e/1FAIpQLSdFR0c-eq5RLMeV0AtA4xTwqEeKp-trmhzEkdxdvKOCqnxfvg/viewform?usp=sf_link).
+<span style="color:red">*Travel award applications have closed.*</span>
 
 ## Thursday: 5 December, 2019
 
