@@ -18,6 +18,8 @@ this year joined with GIW, will be held the following week (9-11 of December) in
 Registration for BioC Asia is \$60 for both days for students and \$120 for anyone else.
 Please register [here](https://www.eventbrite.com.au/e/biocasia-2019-tickets-71445155383).
 
+<span style="color:green">*Note that registrations will close on the 20th of November.*</span>
+
 ## Location
 
 The conference will be held at the [Charles Perkins Center](https://sydney.edu.au/charles-perkins-centre/):
