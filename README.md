@@ -75,8 +75,8 @@ The conference will feature selected talks (15mins), lightning talks (5mins), an
 
 ## Workshops
 
-There will be 6 workshops, 3 advanced and 3 intermediate, to be held on Thursday
-and Friday afternoon.
+There will be 9 workshops to be held on Thursday
+and Friday. Participants can elect to attend 3. 
 
 <span style="color:red">*Abstract submission has closed.*</span>
 
