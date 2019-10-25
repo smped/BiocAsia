@@ -1,0 +1,13 @@
+---
+title: "Experiences of a First-Time Package Contributor."
+author:
+- name: Stephen Pederson
+  affiliation: University of Adelaide
+output:
+  BiocStyle::html_document
+---
+
+# Abstract
+
+After being a long-term Bioconductor user and advanced R programmer, I thought I'd have package submission down. Turns out I was wrong and I learned many valuable and beneficial lessons.
+

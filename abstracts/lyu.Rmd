@@ -1,0 +1,29 @@
+---
+title: "COmapR: Genetic length calculation from crossover events."
+author:
+- name: Ruqian Lyu
+  affiliation: St Vincent’s Institute of Medical Research
+- name: Tsui V
+  affiliation: St Vincent’s Institute of Medical Research
+- name: Wayne Crismani
+  affiliation: St Vincent’s Institute of Medical Research
+- name: Davis McCarthy
+  affiliation: St Vincent’s Institute of Medical Research
+
+output:
+  BiocStyle::html_document
+---
+
+# Abstract
+
+Meiotic crossovers during spermatogenesis ensure genetic diversity in the haploid gametes and are tightly regulated. For example, FANCM has been shown to have a major role in limiting meiotic crossovers in Arabidopsis thaliana, fission yeast and Drosophila. Studies that investigate questions like this look at genetic lengths of organisms in different groups. Genetic lengths, measured in Morgan or centiMorgan, between two markers are derived from crossover rates via mapping functions with different assumptions, i.e. Haldane or Kosambi. Organisms with more crossovers have larger total genetic lengths.  
+
+Recombination frequencies or crossover rates between two SNP markers are calculated by taking the ratio of counts of recombinants and counts of non-recombinants in a population. Genotyping of an array of SNP markers for a group samples allows the estimation of crossover rates and the calculation of a genetic map. The resolution of the map depends on the number and quality of genotyped markers. 
+
+Comapr is an R/Bioconductor package that converts genotyping test reports of genotypes for SNP markers in Excel spreadsheets to quantified genetic lengths. In future work, it will be reading other formats of input data such as VCF file. 
+
+In this package, we include functions for evaluating various quality metrics for SNP markers and filtering out low-quality markers. We also include functions for filtering samples when they have lots of missing data; appear to be duplicate etc. We also provide statistical testing functions for comparing genetic lengths between two populations or experimental groups and provide a significance value. 
+
+# Links
+
+https://gitlab.svi.edu.au/biocellgen-private/comapr

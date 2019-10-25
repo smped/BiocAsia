@@ -1,0 +1,25 @@
+---
+title: "A tidy wrapper suite that introduces a unifying grammar for single-cell and bulk transcriptomic analyses."
+author:
+- name: Stefano Mangiola
+  affiliation: Walter and Eliza Hall of Medical Research
+- name: Ruining Dong
+  affiliation: Walter and Eliza Hall of Medical Research
+- name: Tony Papenfuss
+  affiliation: Walter and Eliza Hall of Medical Research
+
+output:
+  BiocStyle::html_document
+---
+
+# Abstract
+
+The analysis of transcriptomic sequence data has proven to be one of the main tools for studying the genetics of biological systems. This data can inform both on the gene activation rate and genomic aberrations, such as gene copy number variations, genomic translocation and nucleotide mutations. Single-cell and bulk transcriptomic analyses in the R framework include many software tools and pipelines, that use diverse data structures and grammars. Furthermore, single-cell analyses make often use of complex objects that nest the relevant information away from the user. The effort needed to integrate all analyses in a consolidated data frame that can be further analysed or visualised inevitably decrease the focus on the biologically relevant information within the data.
+Despite the apparent diversity, a large overlap is present between single-cell and bulk transcriptomic analyses; and the complexity of object manipulation can be abstracted from the user, providing a user-friendly and consistent data frame to interact with. Here, I present a collection of wrapper tools (github: stemangiola/tidyTranscriptomics) that are based on a unifying grammar for single-cell and bulk transcriptomic analyses. These present a consistent
+data frame to the user, that can be passed from/to any function. This framework allows the user to easily populate the data frame with sample, cell and/or transcript related information and quickly focus on the biological content of the data.
+
+# Links
+
+https://github.com/stemangiola/ttBulk
+
+https://github.com/stemangiola/ttSc

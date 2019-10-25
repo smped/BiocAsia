@@ -1,0 +1,30 @@
+---
+title: "A gene orientated approach to analysis of Hi-C data from immune cells."
+author:
+- name: Hannah Coughlan
+  affiliation: The Walter and Eliza Hall Institute of Medical Research
+- name: Tim Johanson 
+  affiliation: The Walter and Eliza Hall Institute of Medical Research
+- name: Christine Keenan 
+  affiliation: The Walter and Eliza Hall Institute of Medical Research
+- name: Chan W
+  affiliation: The Walter and Eliza Hall Institute of Medical Research
+- name: Rhys Allan
+  affiliation: The Walter and Eliza Hall Institute of Medical Research
+- name: Gordon Smyth
+  affiliation: The Walter and Eliza Hall Institute of Medical Research
+
+output:
+  BiocStyle::html_document
+---
+
+# Abstract
+
+The immune system is comprised of defined cell types, each with a critical role in maintaining health. It is now known immune cells possess distinct genomic organisation but what is the relationship between structure and function in immune cell types? How does the chromatin structure effect gene regulation?
+Chromatin conformation capture can examine three-dimensional chromatin structure such as interactions of genes and regulatory elements or large-scale chromosome structure at a range of length scales. By measuring the frequency of long-range interactions, cell type specific chromatin structure can be identified. However, to identity unique promoter-enhancer regulatory interactions, very deep sequencing is often required. To overcome this problem (without thousands of dollars in sequencing) we used a gene orientated approach to the data analysis. 
+
+We used chromatin conformation capture with high-throughput sequencing (Hi-C) to examine 3D chromatin structure at the genome-wide level in different types of differentiated immune cells and transcription factor knockout immune cells. To investigate the relationship between transcription and chromatin structure we analysed the HiC data with a gene orientated approach to determine how the structure around a promoter changes with transcription. We used the statistically robust R package diffHic to incorporate biological replicate variability in identifying significant changes in chromatin interaction frequency between samples. Instead of identifying either the presence or absence of structure, diffHic can identify strengthening and weakening chromatin structure around gene promoters. We found that globally chromatin structure can be correlated to gene expression especially in the case of transcription factor knockout samples.  
+
+# Links
+
+https://bioconductor.org/packages/release/bioc/html/diffHic.html

@@ -1,0 +1,29 @@
+---
+title: "The RNAseq123 workflow package in Bioconductor."
+author:
+- name: Matthew Ritchie
+  affiliation: The Walter and Eliza Hall Institute of Medical Research
+- name: Charity Law
+  affiliation: The Walter and Eliza Hall Institute of Medical Research
+- name: Monther Alhamdoosh
+  affiliation: The Walter and Eliza Hall Institute of Medical Research
+- name: Shian Su
+  affiliation: The Walter and Eliza Hall Institute of Medical Research
+- name: Xueyi Dong
+  affiliation: The Walter and Eliza Hall Institute of Medical Research
+- name: Luyi Tian
+  affiliation: The Walter and Eliza Hall Institute of Medical Research
+- name: Gordon Smyth
+  affiliation: The Walter and Eliza Hall Institute of Medical Research
+
+output:
+  BiocStyle::html_document
+---
+
+# Abstract
+
+The ability to easily and efficiently analyse RNA-sequencing data is a key strength of the Bioconductor project. In this presentation, I will introduce the RNAseq123 workflow package which demonstrates use of the popular edgeR package to import, organise, filter and normalise data, followed by the limma package with its voom method, linear modelling and empirical Bayes moderation to assess differential expression and perform gene set testing. This pipeline is further enhanced by the Glimma package which enables interactive exploration of the results so that individual samples and genes can be examined by the user. The complete analysis offered by these three packages highlights the ease with which researchers can turn the raw counts from an RNA-sequencing experiment into biological insights using Bioconductor.
+
+# Links
+
+https://bioconductor.org/packages/RNAseq123

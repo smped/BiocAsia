@@ -1,0 +1,17 @@
+---
+title: "Network-based Classification with ClassifyR."
+author:
+- name: Dario Strbenac
+  affiliation: University of Sydney
+
+output:
+  BiocStyle::html_document
+---
+
+# Abstract
+
+Earlier this year, the Human Reference Interactome (see http://interactome.baderlab.org/) was completed, which experimentally tested binary interactions between all pairs of proteins. Using this database, classification of cancer patients into good and bad prognosis will be demonstrated using the Bioconductor package ClassifyR. ClassifyR has been regularly maintained since 2014. In a recent version released late last year, a number of functions have been incorporated which allow the user to do easy feature selection and classification using information from known gene networks. This utilises features of biological systems that are ignored by most analyses, such as the relative difference in abundance of pairs of genes (known to have a relationship a priori) might be more predictive than the absolute abundance of a gene.
+
+# Links
+
+http://bioconductor.org/packages/release/bioc/html/ClassifyR.html

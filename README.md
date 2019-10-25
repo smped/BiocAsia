@@ -30,7 +30,7 @@ Sydney, NSW 2006
 
 ## Keynote Speakers
 
-We are pleased to annouce two international keynote speakers:
+We are pleased to annouce three international keynote speakers:
 
 <p float="center">
   <img src="images/helena.jpeg" width="200" title="Helena Crowell"/>
@@ -51,9 +51,15 @@ Helena focuses on developing analysis frameworks for CyTOF data and differential
 
 Martin leads the core team that maintains the Bioconductor project. He is the author of many Bioconductor packages and a renowned biostatistican.
 
-## Invited Speakers
+<p float="center">
+  <img src="images/elana.jpg" width="200" title="Elana Fertig"/>
+</p>
 
-**Elana Fertig**, Johns Hopkins University
+**Elana Fertig**: Elana is an Associate Professor of Oncology at Johns Hopkins University. Prior to entering the field of computational cancer biology, Elana was a NASA research fellow in numerical weather prediction. 
+
+Elana runs a hybrid computational and experimental lab in the systems biology of cancer and therapeutic response. Her computational methods blend mathematical modeling and artificial intelligence to determine the biomarkers and molecular mechanisms of therapeutic resistance from multi-platform genomics data. 
+
+## Invited Speakers
 
 **Joshua Ho**, The University of Hong Kong
 
@@ -94,33 +100,55 @@ You must submit an abstract for a talk, software demo, or workshop to be eligibl
 
 ### Provisional Timetable
 
-| Time | Intermediate Stream | Advanced Stream |
-|:--------------- |:----------------------------- |:----------------------------- |
+| Time | |
+|:--------------- |:----------------------------- |
 | 8:45am - 9:00am | Registration <br> |
-| 9:00am - 10:30am | Conference presentations <br> (John Marioni, selected talks)|
+| 9:00am - 9:30am | Bioconductor update |
+| 9:30am - 10:15am | [Computational challenges in single cell genomics and applications in early development](abstracts/marioni.html) <br> John Marioni - invited speaker |
+| 10:15am - 10:20am | [A gene orientated approach to analysis of Hi-C data from immune cells](abstracts/coughlan.html) <br> Hannah Coughlan |
+| 10:20am - 10:25am | [A workshop on single-cell RNA-seq analysis](abstracts/qiao.html) <br> PuXue Qiao |
+| 10:25am - 10:30am | [Seamless visualization of complex genomic variations in GMOs and edited cell lines using gmoviz](abstracts/zeglinski.html) <br> Kathleen Zeglinski |
 | 10:30am - 11:00am | **Morning Tea** <br> (Provided) |
-| 11:00am - 12:15pm | Conference presentations <br> (Joshua Ho, selected talks)|
-| 12:15pm - 1:30pm | **Lunch**  | |
-| 1:30pm - 3:00pm | Workshop 1 <br> (joined with BioinfoSummer) | Workshop 2 <br> (joined with BioinfoSummer) |
+| 11:00am - 11:15am | [Use R/Bioconductor for Nanopore RNA-seq data analysis](abstracts/dong.html) <br> Xueyi Dong |
+| 11:15am - 11:30am | [topconfects: rank differentially expressed genes using confidence bounds on fold change, with multiple testing adjustment](abstracts/harrison.html) <br> Paul Harrison |
+| 11:30am - 11:35am | [Network-based Classification with ClassifyR](abstracts/strbenca.html) <br> Dario Strbenca |
+| 11:35am - 11:40am | [Modelling for heteroscedastic groups in RNA-seq data](abstracts/law.html) <br> Charity Law |
+| 11:40 - 11:45am | Buffer time |
+| 11:45am - 12:15pm | [Visualisation and analysis of circular RNAs using Ularcirc](abstracts/ho.html) <br> Joshua Ho - invited speaker |
+| 12:15pm - 1:30pm | **Lunch**  | 
+| 1:30pm - 3:00pm | <span style="color:green">**Workshop: Martin Morgan**</span> <br> <span style="color:green">**Workshop: Pei Weng**</span> <br> <span style="color:green">**Workshop: Pengyi Yang**</span>| 
 | 3:00pm - 3:30pm | **Afternoon Tea** <br> (Provided) | |
-| 3:30pm - 4:30pm | Workshop 3 <br> (joined with BioinfoSummer) | Workshop 4 <br> (joined with BioinfoSummer) |
-| 4:30pm - 5:45pm | Conference presentations <br> (Shila Ghazanfar, lightning talks)|
-| 6:00pm - 7:30pm | Public Lecture <br> (joined with BioinfoSummer) | Pub <br> |
+| 3:30pm - 4:30pm | <span style="color:green">**Workshop: Pei Weng**</span> <br> <span style="color:green">**Workshop: TBA**</span> <br> <span style="color:green">**Workshop: Peter Hickey**</span> |
+| 4:30pm - 5:00pm | [Investigating higher order interactions in single cell data with scHOT](abstracts/ghazanfar.html) <br> Shila Ghazanfar - invited talk|
+| 5:00pm - 5:15pm | [Integration of multiple single-cell CyTOF datasets to untangle the heterogeneity of cancer patients’ responses to a new class of anti-cancer drugs](bstracts/trussart.html) <br> Marie Trussart |
+| 5:15pm - 5:30pm | [Gene Set Testing for Differentially Methylated Regions](abstracts/maksimoovic.html) <br> Jovana Maksimovic |
+| 5:30pm - 5:35pm | [A tidy wrapper suite that introduces a unifying grammar for single-cell and bulk transcriptomic analyses](abstracts/mangiola.html) <br> Stefano Mangiola |
+| 5:35pm - 5:45pm | [An Introduction to currently available scATAC-seq data analysing tools](abstracts/yang.html) <br> Haoyu Yang |
+| 6:00pm - 7:30pm | [Public Lecture](https://bis.amsi.org.au/public-lecture/) <br> Rafael Irizarry | 
+| 7:30pm - 9:00pm | Pub | 
 
 ## Friday: 6 December, 2019
 
 ### Provisional Timetable
 
-| Time | Intermediate Stream | Advanced Stream |
-|:--------------- |:----------------------------- |:----------------------------- |
+| Time | |
+|:--------------- |:----------------------------- |
 | 8:45am - 9:00am | Registration <br> |
-| 9:00am - 10:30am | Conference presentations <br> (Martin Morgan, selected talks, TBA)|
+| 9:00am - 9:40am | [How to advance science using Bioconductor](https://bis.amsi.org.au/speakers/martin-morgan/) <br> Martin Morgan - keynote speaker |
+| 9:40am - 9:55am | [The RNAseq123 workflow package in Bioconductor](abstracts/ritchie.html) <br> Matthew Ritchie |
+| 9:55am - 10:10am | [ClinSV: Detection of clinically relevant structural and copy number variation from whole genome sequencing](abstracts/minoche.html) <br> Andre Minoche |
+| 10:10am - 10:15am | [Experiences of a First-Time Package Contributor](abstracts/pederson.html) <br> Stephen Pedersen |
+| 10:15am - 10:20am | [schex avoids overplotting for large single cell RNA-sequencing datasets](abstracts/freytag.html) <br> Saskia Freytag |
+| 10:20am - 10:25am | [COmapR: Genetic length calculation from crossover events](abstracts/lyu.html) <br> Ruqian Lyu |
+| 10:25am - 10:30am | Buffer time |
 | 10:30am - 11:00am | **Morning Tea** <br> (Provided) |
-| 11:00am - 12:30pm | Conference presentations <br> (Helena Crowell, software demos)|
+| 11:00am - 11:20pm | 	Single cell analysis with Mass Cytometry; technology introduction and opportunities in clinical studies <br> Helen McGuire - invited speaker |
+| 11:20am - 12:00pm | [On differential discovery in high-dimensional cytometry data](https://bis.amsi.org.au/speakers/helena-crowell/) <br> Helena Cowell - keynote speaker |
+| 12:00pm - 12:30pm | TBA |
 | 12:30pm - 1:30pm | **Lunch**  | |
-| 1:30pm - 3:30pm | Workshop 5 <br> (joined with BioinfoSummer) | Workshop 6 <br> (joined with BioinfoSummer) |
+| 1:30pm - 3:30pm | <span style="color:green">**Workshop: Helena Cowell**</span> <br> <span style="color:green">**Workshop: Stuart Lee**</span> <br> <span style="color:green">**Workshop: Dave Tang**</span> |
 | 3:30pm - 3:50pm | **Afternoon Tea** <br> (Provided) | |
-| 3:50pm - 4:45pm | Conference presentations <br> (Elana Fertig)|
+| 3:50pm - 4:45pm | [Defining immune signatures of therapeutic response with non-negative matrix factorization of bulk and single cell data](https://bis.amsi.org.au/speakers/elana-fertig/) <br> Elana Fertig - keynote speaker |
 | 4:45pm - 5:00pm | **Closing Remarks** |
 
 ## Contact

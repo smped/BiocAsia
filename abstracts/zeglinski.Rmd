@@ -1,0 +1,23 @@
+---
+title: "Seamless visualization of complex genomic variations in GMOs and edited cell lines using gmoviz."
+author:
+- name: Kathleen Zeglinski
+  affiliation: CSL
+- name: Arthur Hsu 
+  affiliation: CSL
+- name: Jia Hong Fong 
+  affiliation: CSL
+- name: Milica Ng
+  affiliation: CSL
+- name: Monther Alhamdoosh
+  affiliation: CSL
+
+
+output:
+  BiocStyle::html_document
+---
+
+# Abstract
+
+Genetically modified organisms (GMOs) and cell lines are widely used models to estimate the efficacy of drugs and understand mechanism of actions in biopharmaceutical research. As part of characterising these models, DNA sequencing technology and bioinformatics analyses are used systematically to study their genomes. Therefore, large volumes of data are generated and various algorithms are applied to analyse this data, which introduces a challenge on representing all findings in an informative and concise manner. Scientific visualisation can be used to facilitate the explanation of complex genomic editing events such as integration events, deletions, insertions, etc. However, current visualization tools tend to focus on numerical data, ignoring the need to visualise editing events on a larger yet biologically-relevant scale. Thus, we have developed gmoviz, an R package designed to extend traditional bioinformatics workflows used for genomic characterization with powerful visualization capabilities based on the Circos plotting framework. The circular layout used in gmoviz’s plots enables users to succinctly display genome-wide information about complex genomic editing events along with contextual biological information to improve the interpretation of findings. The gmoviz package has been developed by utilizing the many features of the Bioconductor ecosystem in order to support several genomic file formats and to seamlessly generate publication-quality figures.  Finally, a complex transgenic mouse model, which harbours human gene knock-in, gene knock-outs, segmental insertion, deletion and concatemerisation events, has been used to illustrate the functionality of gmoviz. samples.  
+

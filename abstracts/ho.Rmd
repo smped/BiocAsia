@@ -1,0 +1,17 @@
+---
+title: "Visualisation and analysis of circular RNAs using Ularcirc."
+author:
+- name: Joshua Ho
+  affiliation: University of Hong Kong
+
+output:
+  BiocStyle::html_document
+---
+
+# Abstract
+
+Circular RNAs (circRNA) are a unique class of transcripts that can only be identified from sequence alignments spanning discordant junctions, commonly referred to as backsplice junctions (BSJ). Canonical splicing is also linked with circRNA biogenesis either from the parental transcript or internal to the circRNA, and is not fully utilized in circRNA software. Here we present Ularcirc, a software tool that integrates the visualization of both BSJ and forward splicing junctions and provides downstream analysis of selected circRNA candidates. Ularcirc is accessed via https://github.com/VCCRI/Ularcirc.
+
+# Links 
+
+http://bioconductor.org/packages/release/bioc/html/Ularcirc.html

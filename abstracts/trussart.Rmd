@@ -1,0 +1,19 @@
+---
+title: "Integration of multiple single-cell CyTOF datasets to untangle the heterogeneity of cancer patients’ responses to a new class of anti-cancer drugs."
+author:
+- name: Marie Trussart
+  affiliation: Walter and Eliza Hall Institute of Medical Research
+- name: Charis Teh
+  affiliation: Walter and Eliza Hall Institute of Medical Research
+- name: Daniel Gray
+  affiliation: Walter and Eliza Hall Institute of Medical Research
+- name: Terry Speed
+  affiliation: Walter and Eliza Hall Institute of Medical Research
+output:
+  BiocStyle::html_document
+---
+
+# Abstract
+
+Mass cytometry (CyTOF) is a new technology that has revolutionised single cell biology. By detecting over 40 proteins on millions of single cells, CyTOF allows characterisation of tumour populations in individual patients to unprecedented detail. For example, this technology has been used to understand the impact of a new class of anti-cancer drugs (BH3 mimetics) in early stage clinical trials of several blood cancers - Multiple Myeloma (MM) cell lines, Acute Myeloid Leukemia (AML) and Chronic Lymphocytic Leukaemia (CLL) patients. Most CyTOF experiments have been performed on a single-run/single dataset (containing 20 barcoded samples) on the same site and using the same instrument. They have demonstrated the utility of single-run CyTOF experiments (≤20 samples) in understanding why some patients develop resistance to BH3 mimetics. However, understanding the biological impact of a cancer drug over time in a large cohort of patients necessitates the integration of data from multiple CyTOF experiments (>20 samples). To date, the integration of multiple CyTOF datasets remains a challenge due to technical differences arising in experiments performed in multiple runs. To overcome the limitation in the number of samples that can be measured simultaneously, I created an integrative approach for analysing multiple CyTOF datasets and removing these technical differences. We are developing new tools to exploit the power of CyTOF and handle multi-run data of this nature with not only (i) a novel debarcoding strategy with which it becomes possible to identify both abundant and rare cell population samples but also (ii) an integrative approach that will untangle the heterogeneity of cancer patients’ responses to drug-treatments using multiple CyTOF datasets. This allow me to pool a large number of cancer patients across multiple runs to confidently compare robust cellular changes in multiple patients and correlate it to clinically relevant outcomes. 
+
