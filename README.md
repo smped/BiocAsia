@@ -143,10 +143,10 @@ You must submit an abstract for a talk, software demo, or workshop to be eligibl
 | 10:25am - 10:30am | Buffer time |
 | 10:30am - 11:00am | **Morning Tea** <br> (Provided) |
 | 11:00am - 11:20pm | 	Single cell analysis with Mass Cytometry; technology introduction and opportunities in clinical studies <br> Helen McGuire - invited speaker |
-| 11:20am - 12:00pm | [On differential discovery in high-dimensional cytometry data](https://bis.amsi.org.au/speakers/helena-crowell/) <br> Helena Cowell - keynote speaker |
+| 11:20am - 12:00pm | [On differential discovery in high-dimensional cytometry data](https://bis.amsi.org.au/speakers/helena-crowell/) <br> Helena Crowell - keynote speaker |
 | 12:00pm - 12:30pm | TBA |
 | 12:30pm - 1:30pm | **Lunch**  | |
-| 1:30pm - 3:30pm | <span style="color:green">**Workshop: Helena Cowell**</span> <br> <span style="color:green">**Workshop: Stuart Lee**</span> <br> <span style="color:green">**Workshop: Dave Tang**</span> |
+| 1:30pm - 3:30pm | <span style="color:green">**Workshop: Helena Crowell**</span> <br> <span style="color:green">**Workshop: Stuart Lee**</span> <br> <span style="color:green">**Workshop: Dave Tang**</span> |
 | 3:30pm - 3:50pm | **Afternoon Tea** <br> (Provided) | |
 | 3:50pm - 4:45pm | [Defining immune signatures of therapeutic response with non-negative matrix factorization of bulk and single cell data](https://bis.amsi.org.au/speakers/elana-fertig/) <br> Elana Fertig - keynote speaker |
 | 4:45pm - 5:00pm | **Closing Remarks** |
