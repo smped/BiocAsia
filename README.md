@@ -111,7 +111,7 @@ You must submit an abstract for a talk, software demo, or workshop to be eligibl
 | 10:30am - 11:00am | **Morning Tea** <br> (Provided) |
 | 11:00am - 11:15am | [Use R/Bioconductor for Nanopore RNA-seq data analysis](abstracts/dong.html) <br> Xueyi Dong |
 | 11:15am - 11:30am | [topconfects: rank differentially expressed genes using confidence bounds on fold change, with multiple testing adjustment](abstracts/harrison.html) <br> Paul Harrison |
-| 11:30am - 11:35am | [Network-based Classification with ClassifyR](abstracts/strbenca.html) <br> Dario Strbenca |
+| 11:30am - 11:35am | [Network-based Classification with ClassifyR](abstracts/strbenca.html) <br> Dario Strbenac |
 | 11:35am - 11:40am | [Modelling for heteroscedastic groups in RNA-seq data](abstracts/law.html) <br> Charity Law |
 | 11:40 - 11:45am | Buffer time |
 | 11:45am - 12:15pm | [Visualisation and analysis of circular RNAs using Ularcirc](abstracts/ho.html) <br> Joshua Ho - invited speaker |
@@ -137,7 +137,7 @@ You must submit an abstract for a talk, software demo, or workshop to be eligibl
 | 9:00am - 9:40am | [How to advance science using Bioconductor](https://bis.amsi.org.au/speakers/martin-morgan/) <br> Martin Morgan - keynote speaker |
 | 9:40am - 9:55am | [The RNAseq123 workflow package in Bioconductor](abstracts/ritchie.html) <br> Matthew Ritchie |
 | 9:55am - 10:10am | [ClinSV: Detection of clinically relevant structural and copy number variation from whole genome sequencing](abstracts/minoche.html) <br> Andre Minoche |
-| 10:10am - 10:15am | [Experiences of a First-Time Package Contributor](abstracts/pederson.html) <br> Stephen Pedersen |
+| 10:10am - 10:15am | [Experiences of a First-Time Package Contributor](abstracts/pederson.html) <br> Stephen Pederson |
 | 10:15am - 10:20am | [schex avoids overplotting for large single cell RNA-sequencing datasets](abstracts/freytag.html) <br> Saskia Freytag |
 | 10:20am - 10:25am | [COmapR: Genetic length calculation from crossover events](abstracts/lyu.html) <br> Ruqian Lyu |
 | 10:25am - 10:30am | Buffer time |
