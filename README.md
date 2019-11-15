@@ -116,11 +116,11 @@ You must submit an abstract for a talk, software demo, or workshop to be eligibl
 | 11:40 - 11:45am | Buffer time |
 | 11:45am - 12:15pm | [Visualisation and analysis of circular RNAs using Ularcirc](abstracts/ho.html) <br> Joshua Ho - invited speaker |
 | 12:15pm - 1:30pm | **Lunch**  | 
-| 1:30pm - 3:00pm | <span style="color:green">**Workshop: Martin Morgan**</span> <br> <span style="color:green">**Workshop: Pei Weng**</span> <br> <span style="color:green">**Workshop: Pengyi Yang**</span>| 
+| 1:30pm - 3:00pm | <span style="color:green">**Workshop: Martin Morgan - R and Bioconductor for Genomic Analysis**</span> ([description](https://drive.google.com/drive/folders/1yp8mlBmaNtCyMW0WOBtvVmA_7Qz6VJDO), [materials]()) <br> <span style="color:green">**Workshop: Pei Wang - Imputation and data quality control for proteomics data**</span> ([description](https://bis.amsi.org.au/speakers/pei-wang/), [materials]())<br> <span style="color:green">**Workshop: Pengyi Yang - Computational analysis for biological discovery from (phospho)proteomic data **</span> ([description](https://bis.amsi.org.au/speakers/pengyi-yang/), [materials]())| 
 | 3:00pm - 3:30pm | **Afternoon Tea** <br> (Provided) | |
-| 3:30pm - 4:30pm | <span style="color:green">**Workshop: Pei Weng**</span> <br> <span style="color:green">**Workshop: TBA**</span> <br> <span style="color:green">**Workshop: Peter Hickey**</span> |
+| 3:30pm - 4:30pm | <span style="color:green">**Workshop: Pei Wang - Imputation and data quality control for proteomics data**</span> ([description](https://bis.amsi.org.au/speakers/pei-wang/), [materials]()) <br> <span style="color:green"> **Workshop: Ben Crossett - Introduction to proteomics**</span> ([description](), [materials]()) <br> <span style="color:green">**Workshop: Peter Hickey & Saskia Freytag - Building a Bioconductor package**</span> ([description](https://drive.google.com/drive/folders/1yp8mlBmaNtCyMW0WOBtvVmA_7Qz6VJDO), [materials]()) |
 | 4:30pm - 5:00pm | [Investigating higher order interactions in single cell data with scHOT](abstracts/ghazanfar.html) <br> Shila Ghazanfar - invited talk|
-| 5:00pm - 5:15pm | [Integration of multiple single-cell CyTOF datasets to untangle the heterogeneity of cancer patients’ responses to a new class of anti-cancer drugs](bstracts/trussart.html) <br> Marie Trussart |
+| 5:00pm - 5:15pm | [Integration of multiple single-cell CyTOF datasets to untangle the heterogeneity of cancer patients’ responses to a new class of anti-cancer drugs](abstracts/trussart.html) <br> Marie Trussart |
 | 5:15pm - 5:30pm | [Gene Set Testing for Differentially Methylated Regions](abstracts/maksimoovic.html) <br> Jovana Maksimovic |
 | 5:30pm - 5:35pm | [A tidy wrapper suite that introduces a unifying grammar for single-cell and bulk transcriptomic analyses](abstracts/mangiola.html) <br> Stefano Mangiola |
 | 5:35pm - 5:45pm | [An Introduction to currently available scATAC-seq data analysing tools](abstracts/yang.html) <br> Haoyu Yang |
@@ -146,7 +146,7 @@ You must submit an abstract for a talk, software demo, or workshop to be eligibl
 | 11:20am - 12:00pm | [On differential discovery in high-dimensional cytometry data](https://bis.amsi.org.au/speakers/helena-crowell/) <br> Helena Crowell - keynote speaker |
 | 12:00pm - 12:30pm | TBA |
 | 12:30pm - 1:30pm | **Lunch**  | |
-| 1:30pm - 3:30pm | <span style="color:green">**Workshop: Helena Crowell**</span> <br> <span style="color:green">**Workshop: Stuart Lee**</span> <br> <span style="color:green">**Workshop: Dave Tang**</span> |
+| 1:30pm - 3:30pm | <span style="color:green">**Workshop: Helena Crowell - Differential discovery in high-dimensional cytometry data**</span> ([description](https://drive.google.com/drive/folders/1yp8mlBmaNtCyMW0WOBtvVmA_7Qz6VJDO), [materials]())<br> <span style="color:green">**Workshop: Stuart Lee - Fluent genomics: a plyranges and tximeta case-study**</span> ([description](https://drive.google.com/drive/folders/1yp8mlBmaNtCyMW0WOBtvVmA_7Qz6VJDO), [materials](https://bioconductor.github.io/BiocWorkshops/fluent-genomic-data-analysis-with-plyranges.html)) <br> <span style="color:green">**Workshop: Dave Tang - Reproducible bioinformatics**</span> ([description](), [materials](https://github.com/davetang/reproducible_bioinformatics))|
 | 3:30pm - 3:50pm | **Afternoon Tea** <br> (Provided) | |
 | 3:50pm - 4:45pm | [Defining immune signatures of therapeutic response with non-negative matrix factorization of bulk and single cell data](https://bis.amsi.org.au/speakers/elana-fertig/) <br> Elana Fertig - keynote speaker |
 | 4:45pm - 5:00pm | **Closing Remarks** |
