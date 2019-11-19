@@ -3,7 +3,7 @@
 # BioC Asia 2019
 
 5-6 December, 2019  
-Charles Perkins Centre, Camperdown campus of University of Sydney, NSW, Australia
+Charles Perkins Centre, Camperdown Campus of University of Sydney, NSW, Australia
 
 ## General Information
 
@@ -113,14 +113,14 @@ Seminar Room 1.1
 | 10:30am - 11:00am | **Morning Tea** <br> (Provided) |
 | 11:00am - 11:15am | [Use R/Bioconductor for Nanopore RNA-seq data analysis](abstracts/dong.html) <br> Xueyi Dong |
 | 11:15am - 11:30am | [topconfects: rank differentially expressed genes using confidence bounds on fold change, with multiple testing adjustment](abstracts/harrison.html) <br> Paul Harrison |
-| 11:30am - 11:35am | [Network-based Classification with ClassifyR](abstracts/strbenca.html) <br> Dario Strbenac |
+| 11:30am - 11:35am | [Network-based Classification with ClassifyR](abstracts/strbenac.html) <br> Dario Strbenac |
 | 11:35am - 11:40am | [Modelling for heteroscedastic groups in RNA-seq data](abstracts/law.html) <br> Charity Law |
 | 11:40 - 11:45am | Buffer time |
 | 11:45am - 12:15pm | [Visualisation and analysis of circular RNAs using Ularcirc](abstracts/ho.html) <br> Joshua Ho - invited speaker |
 | 12:15pm - 1:30pm | **Lunch**  | 
-| 1:30pm - 3:00pm | <span style="color:green">**Workshop: Martin Morgan - R and Bioconductor for Genomic Analysis**</span> ([description](https://drive.google.com/drive/folders/1yp8mlBmaNtCyMW0WOBtvVmA_7Qz6VJDO), [materials]()) <br> <span style="color:green">**Workshop: Pei Wang - Imputation and data quality control for proteomics data**</span> ([description](https://bis.amsi.org.au/speakers/pei-wang/), [materials]())<br> <span style="color:green">**Workshop: Pengyi Yang - Computational analysis for biological discovery from (phospho)proteomic data**</span> ([description](https://bis.amsi.org.au/speakers/pengyi-yang/), [materials]())| 
+| 1:30pm - 3:00pm | <span style="color:green">**Workshop Stream A: Pei Wang - Imputation and data quality control for proteomics data**</span> ([description](workshops/workshop_wang), [materials]()) <br> <span style="color:green">**Workshop Stream B: Pengyi Yang - Computational analysis for biological discovery from (phospho)proteomic data**</span> ([description](workshops/workshop_yang), [materials]()) <br> <span style="color:green">**Workshop Stream C: Martin Morgan - R and Bioconductor for Genomic Analysis**</span> ([description](workshops/workshop_morgan), [materials]()) | 
 | 3:00pm - 3:30pm | **Afternoon Tea** <br> (Provided) | |
-| 3:30pm - 4:30pm | <span style="color:green">**Workshop: Pei Wang - Imputation and data quality control for proteomics data**</span> ([description](https://bis.amsi.org.au/speakers/pei-wang/), [materials]()) <br> <span style="color:green"> **Workshop: Ben Crossett - Introduction to proteomics**</span> ([description](), [materials]()) <br> <span style="color:green">**Workshop: Peter Hickey & Saskia Freytag - Building a Bioconductor package**</span> ([description](https://drive.google.com/drive/folders/1yp8mlBmaNtCyMW0WOBtvVmA_7Qz6VJDO), [materials]()) |
+| 3:30pm - 4:30pm | <span style="color:green">**Workshop Stream A: Pei Wang - Imputation and data quality control for proteomics data**</span> ([description](workshops/workshop_wang), [materials]()) <br> <span style="color:green"> **Workshop Stream B: Ben Crossett - Introduction to proteomics**</span> ([description](workshops/workshop_crossett_maltby_connolly), [materials]()) <br> <span style="color:green">**Workshop Stream C: Peter Hickey & Saskia Freytag - Building a Bioconductor package**</span> ([description](workshops/workshop_hickey_freytag), [materials]()) |
 | 4:30pm - 5:00pm | [Investigating higher order interactions in single cell data with scHOT](abstracts/ghazanfar.html) <br> Shila Ghazanfar - invited talk|
 | 5:00pm - 5:15pm | [Integration of multiple single-cell CyTOF datasets to untangle the heterogeneity of cancer patients’ responses to a new class of anti-cancer drugs](abstracts/trussart.html) <br> Marie Trussart |
 | 5:15pm - 5:30pm | [Gene Set Testing for Differentially Methylated Regions](abstracts/maksimoovic.html) <br> Jovana Maksimovic |

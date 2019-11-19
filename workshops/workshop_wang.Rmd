@@ -1,0 +1,40 @@
+---
+title: "Imputation and data quality control for proteomics data"
+author:
+- name: Professor Pei Wang
+  affiliation: Icahn School of Medicine at Mount Sinai, USA
+output:
+  BiocStyle::html_document
+---
+
+ 
+# Description
+
+Due to the dynamic nature of the mass spectrometry (MS)
+instruments, analyzing MS based proteomics data requires customized tools for routine
+preprocessing such as normalization, outlier detection/filtering, and batch correction.
+Moreover, proteomics data often contains substantial missing values. These together impose
+great challenges to data analyses. Specifically, many tools and methods, especially those for
+high dimensional data, often cannot deal with missing values directly. Furthermore,
+missing in proteomics data are not missing-at-random. Thus simply ignoring missing values
+or imputing them with constants will lead to biased results. In this talk, I will share a suite of
+preprocessing and imputation methods/tools for handling proteomics data. A specific focus
+will be given to an imputation method, DreamAI, which was resulted from an NCI-CPTAC
+Proteomics Dream Challenge that was carried out to develop effective imputation algorithms
+for proteomics data through crowd learning. DreamAI, is based on ensemble of six different
+imputation methods. The favorable performance of DreamAI over existing tools was
+demonstrated on both simulated and real data sets. Follow-up analysis based on the imputed
+data by DreamAI revealed new biological insights, suggesting this new tool could enhance the
+current data analysis capabilities in proteomics research.
+
+# Requirements
+
+You will need to bring your own laptop. Please make sure it has the
+latest version of R installed.
+
+# Relevance
+
+This workshop is relevant to anyone who is interested in analysing data from mass
+spectrometry based proteomics experiment.
+
+*Key words: proteomics, imputation*

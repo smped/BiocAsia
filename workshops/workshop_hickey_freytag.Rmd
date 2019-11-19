@@ -1,0 +1,32 @@
+---
+title: "Building a Bioconductor package"
+author:
+- name: Peter Hickey
+  affiliation: Walter and ELiza Hall Institute
+- name: Saskia Freytag
+  affiliation: Harry Perkins Institute
+output:
+  BiocStyle::html_document
+---
+
+
+# Description
+
+This workshop will answer the following questions:
+
+- What is an R package?
+- Why make an R package?
+- How to make an R package?
+- How can I share my R package?
+
+Participants will create their first small R package and share it with the world through GitHub. Throughout this process we will point out important aspects of package development, such as documentation, testing and design principles. To conclude, we will discuss the Bioconductor submission process and some helpful tips and tricks to get through it painlessly.
+
+# Requirements
+
+You will need to bring your laptop. For the workshop you will be assigned an AWS instance with a working RStudio version, that can be accessed via any up-to-date browser (Chrome, Firefox). Please also sign up to GitHub (https://github.com/), if you have not already got an existing account.
+
+# Relevance
+
+Sharing bioinformatics development through software is the most effective way to increase the significance and reach of your work. The Bioconductor repository is a recognized platform to share R software relating to biological data. However, the creation of an R package and its sharing can be daunting for a first-time user. We will alleviate your fears and show you that your first package is within your reach.
+
+*Key words: R package; Bioconductor package; Dissemination; Open Source*
