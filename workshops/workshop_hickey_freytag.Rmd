@@ -2,7 +2,7 @@
 title: "Building a Bioconductor package"
 author:
 - name: Peter Hickey
-  affiliation: Walter and ELiza Hall Institute
+  affiliation: Walter and Eliza Hall Institute
 - name: Saskia Freytag
   affiliation: Harry Perkins Institute
 output:
