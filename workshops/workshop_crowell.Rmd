@@ -1,0 +1,25 @@
+---
+title: "Differential discovery in high-dimensional cytometry data"
+author:
+- name: Helena L. Crowell 
+  affiliation: University of Zurich, Switzerland
+output:
+  BiocStyle::html_document
+---
+
+# Description
+
+In this workshop, we will cover an R-based pipeline for differential analysis of (replicated, multi-condition) high-dimensional mass cytometry data, which is largely based on Bioconductor infrastructure, and includes: i) identification of cell subpopulations using a sequence of high-resolution clustering, consensus clustering, manual merging and annotation; and, ii) differential abundance (DA) and state (DS) analyses, in order to identify association of population abundances with a phenotype, or changes in signalling within populations. Alongside formal statistical analyses, we will perform exploratory data analysis at each step, such as reporting on various clustering and differential testing results through dimensionality reduction, heatmaps of aggregated signal etc. 
+*The workshop will closely follow Nowicka et al.’s “CyTOF workflow: differential discovery in high-throughput high-dimensional cytometry datasets” (F1000Research, 2017), available here.
+
+# Requirements
+
+**Technical:** You will need to bring your own laptop. The workshop will use cloud-based resources, so your laptop will need a web browser and WiFi capabilities.  
+
+**Knowledge/competencies:** Participants are expected to have basic-intermediate knowledge of R and some familiarity with Bioconductor’s SingleCellExperiment class. 
+
+# Relevance
+
+The workshop presented here will equip participants with the expertise for diverse exploratory and differential analyses of high-dimensional cytometry data with complex experimental design, i.e., multiple cell subpopulations, samples (e.g. patients), and conditions (e.g. treatments). Furthermore, a large proportion of the analyses presented here are transferable to scRNA-seq, and the workshop may thus be of interest also to anyone who is interested in analysing replicated multi-condition scRNA-seq data.
+
+*Key words: mass cytometry; CyTOF; visualization; clustering; dimension reduction; differential analysis*
