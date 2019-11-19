@@ -3,7 +3,7 @@
 # BioC Asia 2019
 
 5-6 December, 2019  
-Charles Perkins Center, Sydney, NSW, Australia  
+Charles Perkins Centre, Camperdown campus of University of Sydney, NSW, Australia
 
 ## General Information
 
@@ -22,7 +22,7 @@ Please register [here](https://www.eventbrite.com.au/e/biocasia-2019-tickets-714
 
 ## Location
 
-The conference will be held at the [Charles Perkins Center](https://sydney.edu.au/charles-perkins-centre/):
+The conference will be held at the [Charles Perkins Centre](https://sydney.edu.au/charles-perkins-centre/):
 
 John Hopkins Drive, 
 The University of Sydney,
@@ -98,6 +98,8 @@ You must submit an abstract for a talk, software demo, or workshop to be eligibl
 
 ## Thursday: 5 December, 2019
 
+Seminar Room 1.1
+
 ### Provisional Timetable
 
 | Time | |
@@ -128,6 +130,8 @@ You must submit an abstract for a talk, software demo, or workshop to be eligibl
 | 7:30pm - 9:00pm | Pub | 
 
 ## Friday: 6 December, 2019
+
+Morning presentations are in The Hub, outside of Charles Perkins Centre main entry. Afternoon workshops in Seminar Room 1.1.
 
 ### Provisional Timetable
 
