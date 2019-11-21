@@ -16,9 +16,8 @@ this year joined with GIW, will be held the following week (9-11 of December) in
 ## Registration
 
 Registration for BioC Asia is \$60 for both days for students and \$120 for anyone else.
-Please register [here](https://www.eventbrite.com.au/e/biocasia-2019-tickets-71445155383).
 
-<span style="color:green">*Note that registrations will close on the 20th of November.*</span>
+<span style="color:green">*Note that registration has closed.*</span>
 
 ## Location
 
@@ -98,7 +97,7 @@ You must submit an abstract for a talk, software demo, or workshop to be eligibl
 
 ## Thursday: 5 December, 2019
 
-Seminar Room 1.1
+Bioconductor Workshops are in Seminar Room 1.1
 
 ### Provisional Timetable
 
@@ -118,11 +117,11 @@ Seminar Room 1.1
 | 11:40 - 11:45am | Buffer time |
 | 11:45am - 12:15pm | [Visualisation and analysis of circular RNAs using Ularcirc](abstracts/ho.html) <br> Joshua Ho - invited speaker |
 | 12:15pm - 1:30pm | **Lunch**  | 
-| 1:30pm - 3:00pm | <span style="color:green">**Workshop Stream A:<br>Pei Wang - Imputation and data quality control for proteomics data**<br> </span>([description](workshops/workshop_wang.html), [materials]()) <br> <span style="color:green">**Workshop Stream B:<br>Pengyi Yang - Computational analysis for biological discovery from (phospho)proteomic data**<br></span> ([description](workshops/workshop_yang.html), [materials]()) <br><span style="color:green">**Workshop Stream C:<br>Martin Morgan - R and Bioconductor for Genomic Analysis**<br></span> ([description](workshops/workshop_morgan.html), [materials]()) | 
+| 1:30pm - 3:00pm | Bioinformatics Workshop Stream A:<br>Pei Wang - Imputation and data quality control for proteomics data<br>([description](workshops/workshop_wang.html), [materials]()) <br> Bioinformatics Workshop Stream B:<br>Pengyi Yang - Computational analysis for biological discovery from (phospho)proteomic data<br> ([description](workshops/workshop_yang.html), [materials]()) <br><span style="color:green">**Bioconductor Workshop:<br>Martin Morgan - R and Bioconductor for Genomic Analysis**<br></span> ([description](workshops/workshop_morgan.html), [materials]()) | 
 | 3:00pm - 3:30pm | **Afternoon Tea** <br> (Provided) | |
-| 3:30pm - 4:30pm | <span style="color:green">**Workshop Stream A:<br>Pei Wang - Imputation and data quality control for proteomics data**<br></span> ([description](workshops/workshop_wang.html), [materials]()) <br> <span style="color:green"> **Workshop Stream B:<br>Ben Crossett, David Maltby & Angela Connolly - Introduction to proteomics**<br></span> ([description](workshops/workshop_crossett_maltby_connolly.html), [materials]()) <br> <span style="color:green">**Workshop Stream C:<br>Peter Hickey & Saskia Freytag - Building a Bioconductor package**<br></span> ([description](workshops/workshop_hickey_freytag.html), [materials]()) |
+| 3:30pm - 4:30pm | Bioinformatics Workshop Stream A:<br>Pei Wang - Imputation and data quality control for proteomics data<br> ([description](workshops/workshop_wang.html), [materials]()) <br> Bioinformatics Workshop Stream B:<br>Ben Crossett, David Maltby & Angela Connolly - Introduction to proteomics<br> ([description](workshops/workshop_crossett_maltby_connolly.html), [materials]()) <br> <span style="color:green">**Bioconductor Workshop:<br>Peter Hickey & Saskia Freytag - Building a Bioconductor package**<br></span> ([description](workshops/workshop_hickey_freytag.html), [materials]()) |
 | 4:30pm - 5:00pm | [Investigating higher order interactions in single cell data with scHOT](abstracts/ghazanfar.html) <br> Shila Ghazanfar - invited talk|
-| 5:00pm - 5:15pm | [Integration of multiple single-cell CyTOF datasets to untangle the heterogeneity of cancer patients’ responses to a new class of anti-cancer drugs](abstracts/trussart.html) <br> Marie Trussart |
+| 5:00pm - 5:15pm | [Integration of multiple single-cell CyTOF datasets to untangle the heterogeneity of cancer patients' responses to a new class of anti-cancer drugs](abstracts/trussart.html) <br> Marie Trussart |
 | 5:15pm - 5:30pm | [Gene Set Testing for Differentially Methylated Regions](abstracts/maksimoovic.html) <br> Jovana Maksimovic |
 | 5:30pm - 5:35pm | [A tidy wrapper suite that introduces a unifying grammar for single-cell and bulk transcriptomic analyses](abstracts/mangiola.html) <br> Stefano Mangiola |
 | 5:35pm - 5:45pm | [An Introduction to currently available scATAC-seq data analysing tools](abstracts/yang.html) <br> Haoyu Yang |
@@ -131,7 +130,7 @@ Seminar Room 1.1
 
 ## Friday: 6 December, 2019
 
-Morning presentations are in The Hub, outside of Charles Perkins Centre main entry. Afternoon workshops in Seminar Room 1.1.
+Morning presentations are in The Hub, outside of Charles Perkins Centre main entry. Afternoon workshops in Dry Lab 1.1, Dry Lab 1.2 and Dry Lab 1.3.
 
 ### Provisional Timetable
 
@@ -150,7 +149,7 @@ Morning presentations are in The Hub, outside of Charles Perkins Centre main ent
 | 11:20am - 12:00pm | [On differential discovery in high-dimensional cytometry data](https://bis.amsi.org.au/speakers/helena-crowell/) <br> Helena Crowell - keynote speaker |
 | 12:00pm - 12:30pm | TBA |
 | 12:30pm - 1:30pm | **Lunch**  | |
-| 1:30pm - 3:30pm | <span style="color:green">**Workshop Stream A:<br>Helena Crowell - Differential discovery in high-dimensional cytometry data**<br></span> ([description](workshops/workshop_crowell.html), [materials]())<br> <span style="color:green">**Workshop Stream B:<br>Stuart Lee - Fluent genomics: a plyranges and tximeta case-study**<br></span> ([description](workshops/workshop_lee.html), [materials](https://bioconductor.github.io/BiocWorkshops/fluent-genomic-data-analysis-with-plyranges.html)) <br> <span style="color:green">**Workshop Stream C:<br>Dave Tang - Reproducible bioinformatics**<br></span> ([description](workshops/workshop_tang.html), [materials](https://github.com/davetang/reproducible_bioinformatics))|
+| 1:30pm - 3:30pm | <span style="color:green">**Bioconductor Workshop Stream A:<br>Helena Crowell - Differential discovery in high-dimensional cytometry data**<br></span> ([description](workshops/workshop_crowell.html), [materials]())<br> <span style="color:green">**Bioconductor Workshop Stream B:<br>Stuart Lee - Fluent genomics: a plyranges and tximeta case-study**<br></span> ([description](workshops/workshop_lee.html), [materials](https://bioconductor.github.io/BiocWorkshops/fluent-genomic-data-analysis-with-plyranges.html)) <br> Bioinformatics Workshop:<br>Dave Tang - Reproducible bioinformatics<br> ([description](workshops/workshop_tang.html), [materials](https://github.com/davetang/reproducible_bioinformatics))|
 | 3:30pm - 3:50pm | **Afternoon Tea** <br> (Provided) | |
 | 3:50pm - 4:45pm | [Defining immune signatures of therapeutic response with non-negative matrix factorization of bulk and single cell data](https://bis.amsi.org.au/speakers/elana-fertig/) <br> Elana Fertig - keynote speaker |
 | 4:45pm - 5:00pm | **Closing Remarks** |
