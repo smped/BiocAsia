@@ -124,7 +124,7 @@ Bioconductor Workshops are in Seminar Room 1.1
 | 5:00pm - 5:15pm | [Integration of multiple single-cell CyTOF datasets to untangle the heterogeneity of cancer patients' responses to a new class of anti-cancer drugs](abstracts/trussart.html) <br> Marie Trussart |
 | 5:15pm - 5:30pm | [Gene Set Testing for Differentially Methylated Regions](abstracts/maksimoovic.html) <br> Jovana Maksimovic |
 | 5:30pm - 5:35pm | [A tidy wrapper suite that introduces a unifying grammar for single-cell and bulk transcriptomic analyses](abstracts/mangiola.html) <br> Stefano Mangiola |
-| 5:35pm - 5:45pm | [An Introduction to currently available scATAC-seq data analysing tools](abstracts/yang.html) <br> Haoyu Yang |
+| 5:35pm - 5:40pm | [An Introduction to currently available scATAC-seq data analysing tools](abstracts/yang.html) <br> Haoyu Yang |
 | 6:00pm - 7:30pm | [Public Lecture](https://bis.amsi.org.au/public-lecture/) <br> Rafael Irizarry | 
 | 7:30pm - 9:00pm | Pub | 
 
