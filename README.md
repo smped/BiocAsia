@@ -17,7 +17,7 @@ this year joined with GIW, will be held the following week (9-11 of December) in
 
 Registration for BioC Asia is \$60 for both days for students and \$120 for anyone else.
 
-<span style="color:green">*Note that registration has closed.*</span>
+<span style="color:red">*Note that registration has closed.*</span>
 
 ## Location
 
@@ -83,7 +83,8 @@ All workshops are open to BioInfoSummer participants. For
 the workshops please note that:
 
 - All participants are expected to bring their own laptops
-- All participants are expected to have followed the installation instructions 
+- All participants are expected to have followed the installation instructions (please
+    check the materials for the workshops) 
 - WiFi access will be through either eduroam or using a login
 - Access to power sockets will be available so please bring your power adapter
 - Please ensure you are running a current browser (i.e. chrome, firefox etc)
@@ -104,12 +105,14 @@ Bioconductor Workshops are in Seminar Room 1.1
 | Time | |
 |:--------------- |:----------------------------- |
 | 8:45am - 9:00am | Registration <br> |
-| 9:00am - 9:30am | Bioconductor update |
+| 9:00am - 9:30am | Orientation and project updates <br> Martin Morgan |
+| Session 1 | *Chair: TBA * |
 | 9:30am - 10:15am | [Computational challenges in single cell genomics and applications in early development](abstracts/marioni.html) <br> John Marioni - invited speaker |
 | 10:15am - 10:20am | [A gene orientated approach to analysis of Hi-C data from immune cells](abstracts/coughlan.html) <br> Hannah Coughlan |
 | 10:20am - 10:25am | [A workshop on single-cell RNA-seq analysis](abstracts/qiao.html) <br> PuXue Qiao |
 | 10:25am - 10:30am | [Seamless visualization of complex genomic variations in GMOs and edited cell lines using gmoviz](abstracts/zeglinski.html) <br> Kathleen Zeglinski |
 | 10:30am - 11:00am | **Morning Tea** <br> (Provided) |
+| Session 2 | *Chair: TBA*  |
 | 11:00am - 11:15am | [Use R/Bioconductor for Nanopore RNA-seq data analysis](abstracts/dong.html) <br> Xueyi Dong |
 | 11:15am - 11:30am | [topconfects: rank differentially expressed genes using confidence bounds on fold change, with multiple testing adjustment](abstracts/harrison.html) <br> Paul Harrison |
 | 11:30am - 11:35am | [Network-based Classification with ClassifyR](abstracts/strbenac.html) <br> Dario Strbenac |
@@ -117,15 +120,16 @@ Bioconductor Workshops are in Seminar Room 1.1
 | 11:40 - 11:45am | Buffer time |
 | 11:45am - 12:15pm | [Visualisation and analysis of circular RNAs using Ularcirc](abstracts/ho.html) <br> Joshua Ho - invited speaker |
 | 12:15pm - 1:30pm | **Lunch**  | 
-| 1:30pm - 3:00pm | Bioinformatics Workshop Stream A:<br>Pei Wang - Imputation and data quality control for proteomics data<br>([description](workshops/workshop_wang.html), [materials]()) <br> Bioinformatics Workshop Stream B:<br>Pengyi Yang - Computational analysis for biological discovery from (phospho)proteomic data<br> ([description](workshops/workshop_yang.html), [materials]()) <br><span style="color:green">**Bioconductor Workshop:<br>Martin Morgan - R and Bioconductor for Genomic Analysis**<br></span> ([description](workshops/workshop_morgan.html), [materials]()) | 
+| 1:30pm - 3:00pm | Bioinformatics Workshop Stream A:<br>Pei Wang - Imputation and data quality control for proteomics data<br>([description](workshops/workshop_wang.html), [materials]()) <br> Bioinformatics Workshop Stream B:<br>Pengyi Yang - Computational analysis for biological discovery from (phospho)proteomic data<br> ([description](workshops/workshop_yang.html), [materials]()) <br><span style="color:green">**Bioconductor Workshop Stream C:<br>Martin Morgan - R and Bioconductor for Genomic Analysis**<br></span> ([description](workshops/workshop_morgan.html), [materials]()) | 
 | 3:00pm - 3:30pm | **Afternoon Tea** <br> (Provided) | |
-| 3:30pm - 4:30pm | Bioinformatics Workshop Stream A:<br>Pei Wang - Imputation and data quality control for proteomics data<br> ([description](workshops/workshop_wang.html), [materials]()) <br> Bioinformatics Workshop Stream B:<br>Ben Crossett, David Maltby & Angela Connolly - Introduction to proteomics<br> ([description](workshops/workshop_crossett_maltby_connolly.html), [materials]()) <br> <span style="color:green">**Bioconductor Workshop:<br>Peter Hickey & Saskia Freytag - Building a Bioconductor package**<br></span> ([description](workshops/workshop_hickey_freytag.html), [materials]()) |
+| 3:30pm - 4:30pm | Bioinformatics Workshop Stream A:<br>Pei Wang - Imputation and data quality control for proteomics data<br> ([description](workshops/workshop_wang.html), [materials]()) <br> Bioinformatics Workshop Stream B:<br>Ben Crossett, David Maltby & Angela Connolly - Introduction to proteomics<br> ([description](workshops/workshop_crossett_maltby_connolly.html), [materials]()) <br> <span style="color:green">**Bioconductor Workshop Stream C:<br>Peter Hickey & Saskia Freytag - Building a Bioconductor package**<br></span> ([description](workshops/workshop_hickey_freytag.html), [materials]()) |
+| Session 3 | *Chair: TBA* |
 | 4:30pm - 5:00pm | [Investigating higher order interactions in single cell data with scHOT](abstracts/ghazanfar.html) <br> Shila Ghazanfar - invited talk|
 | 5:00pm - 5:15pm | [Integration of multiple single-cell CyTOF datasets to untangle the heterogeneity of cancer patients' responses to a new class of anti-cancer drugs](abstracts/trussart.html) <br> Marie Trussart |
 | 5:15pm - 5:30pm | [Gene Set Testing for Differentially Methylated Regions](abstracts/maksimoovic.html) <br> Jovana Maksimovic |
 | 5:30pm - 5:35pm | [A tidy wrapper suite that introduces a unifying grammar for single-cell and bulk transcriptomic analyses](abstracts/mangiola.html) <br> Stefano Mangiola |
 | 5:35pm - 5:40pm | [An Introduction to currently available scATAC-seq data analysing tools](abstracts/yang.html) <br> Haoyu Yang |
-| 6:00pm - 7:30pm | [Public Lecture](https://bis.amsi.org.au/public-lecture/) <br> Rafael Irizarry | 
+| 6:00pm - 7:30pm | [Public Lecture: The bright future of applied statistics](https://bis.amsi.org.au/public-lecture/) <br> Rafael Irizarry | 
 | 7:30pm - 9:00pm | Pub | 
 
 ## Friday: 6 December, 2019
@@ -137,6 +141,7 @@ Morning presentations are in The Hub, outside of Charles Perkins Centre main ent
 | Time | |
 |:--------------- |:----------------------------- |
 | 8:45am - 9:00am | Registration <br> |
+| Session 4 | *Chair: Peter Hickey* |
 | 9:00am - 9:40am | [How to advance science using Bioconductor](https://bis.amsi.org.au/speakers/martin-morgan/) <br> Martin Morgan - keynote speaker |
 | 9:40am - 9:55am | [The RNAseq123 workflow package in Bioconductor](abstracts/ritchie.html) <br> Matthew Ritchie |
 | 9:55am - 10:10am | [ClinSV: Detection of clinically relevant structural and copy number variation from whole genome sequencing](abstracts/minoche.html) <br> Andre Minoche |
@@ -145,12 +150,14 @@ Morning presentations are in The Hub, outside of Charles Perkins Centre main ent
 | 10:20am - 10:25am | [COmapR: Genetic length calculation from crossover events](abstracts/lyu.html) <br> Ruqian Lyu |
 | 10:25am - 10:30am | Buffer time |
 | 10:30am - 11:00am | **Morning Tea** <br> (Provided) |
-| 11:00am - 11:20pm | 	Single cell analysis with Mass Cytometry; technology introduction and opportunities in clinical studies <br> Helen McGuire - invited speaker |
+| Session 5 | *Chair: Marie Trussart* |
+| 11:00am - 11:20pm | 	[Single cell analysis with Mass Cytometry; technology introduction and opportunities in clinical studies](https://bis.amsi.org.au/speakers/helen-mcguire/) <br> Helen McGuire - invited speaker |
 | 11:20am - 12:00pm | [On differential discovery in high-dimensional cytometry data](https://bis.amsi.org.au/speakers/helena-crowell/) <br> Helena Crowell - keynote speaker |
-| 12:00pm - 12:30pm | TBA |
+| 12:00pm - 12:30pm | [Ethics of precision medicine]() <br> Lisa Dive |
 | 12:30pm - 1:30pm | **Lunch**  | |
-| 1:30pm - 3:30pm | <span style="color:green">**Bioconductor Workshop Stream A:<br>Helena Crowell - Differential discovery in high-dimensional cytometry data**<br></span> ([description](workshops/workshop_crowell.html), [materials]())<br> <span style="color:green">**Bioconductor Workshop Stream B:<br>Stuart Lee - Fluent genomics: a plyranges and tximeta case-study**<br></span> ([description](workshops/workshop_lee.html), [materials](https://bioconductor.github.io/BiocWorkshops/fluent-genomic-data-analysis-with-plyranges.html)) <br> Bioinformatics Workshop:<br>Dave Tang - Reproducible bioinformatics<br> ([description](workshops/workshop_tang.html), [materials](https://github.com/davetang/reproducible_bioinformatics))|
-| 3:30pm - 3:50pm | **Afternoon Tea** <br> (Provided) | |
+| 1:30pm - 3:30pm | <span style="color:green">**Bioconductor Workshop Stream A:<br>Helena Crowell - Differential discovery in high-dimensional cytometry data**<br></span> ([description](workshops/workshop_crowell.html), [materials]())<br> <span style="color:green">**Bioconductor Workshop Stream B:<br>Stuart Lee - Fluent genomics: a plyranges and tximeta case-study**<br></span> ([description](workshops/workshop_lee.html), [materials](https://bioconductor.github.io/BiocWorkshops/fluent-genomic-data-analysis-with-plyranges.html)) <br> Bioinformatics Workshop Stream C:<br>Dave Tang - Reproducible bioinformatics<br> ([description](workshops/workshop_tang.html), [materials](https://github.com/davetang/reproducible_bioinformatics))|
+| 3:30pm - 3:50pm | **Afternoon Tea** <br> (Provided) | 
+| Session 5 | *Chair: Dario Strbenac* |
 | 3:50pm - 4:45pm | [Defining immune signatures of therapeutic response with non-negative matrix factorization of bulk and single cell data](https://bis.amsi.org.au/speakers/elana-fertig/) <br> Elana Fertig - keynote speaker |
 | 4:45pm - 5:00pm | **Closing Remarks** |
 
