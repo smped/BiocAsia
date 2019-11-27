@@ -106,7 +106,7 @@ Bioconductor Workshops are in Seminar Room 1.1
 |:--------------- |:----------------------------- |
 | 8:45am - 9:00am | Registration <br> |
 | 9:00am - 9:30am | Orientation and project updates <br> Martin Morgan |
-| Session 1 | *Chair: Paul Harrison * |
+| Session 1 | *Chair: Paul Harrison* |
 | 9:30am - 10:15am | [Computational challenges in single cell genomics and applications in early development](abstracts/marioni.html) <br> John Marioni - invited speaker |
 | 10:15am - 10:20am | [A gene orientated approach to analysis of Hi-C data from immune cells](abstracts/coughlan.html) <br> Hannah Coughlan |
 | 10:20am - 10:25am | [A workshop on single-cell RNA-seq analysis](abstracts/qiao.html) <br> PuXue Qiao |
