@@ -106,13 +106,13 @@ Bioconductor Workshops are in Seminar Room 1.1
 |:--------------- |:----------------------------- |
 | 8:45am - 9:00am | Registration <br> |
 | 9:00am - 9:30am | Orientation and project updates <br> Martin Morgan |
-| Session 1 | *Chair: TBA * |
+| Session 1 | *Chair: Paul Harrison * |
 | 9:30am - 10:15am | [Computational challenges in single cell genomics and applications in early development](abstracts/marioni.html) <br> John Marioni - invited speaker |
 | 10:15am - 10:20am | [A gene orientated approach to analysis of Hi-C data from immune cells](abstracts/coughlan.html) <br> Hannah Coughlan |
 | 10:20am - 10:25am | [A workshop on single-cell RNA-seq analysis](abstracts/qiao.html) <br> PuXue Qiao |
 | 10:25am - 10:30am | [Seamless visualization of complex genomic variations in GMOs and edited cell lines using gmoviz](abstracts/zeglinski.html) <br> Kathleen Zeglinski |
 | 10:30am - 11:00am | **Morning Tea** <br> (Provided) |
-| Session 2 | *Chair: TBA*  |
+| Session 2 | *Chair: Alexandra Garnham*  |
 | 11:00am - 11:15am | [Use R/Bioconductor for Nanopore RNA-seq data analysis](abstracts/dong.html) <br> Xueyi Dong |
 | 11:15am - 11:30am | [topconfects: rank differentially expressed genes using confidence bounds on fold change, with multiple testing adjustment](abstracts/harrison.html) <br> Paul Harrison |
 | 11:30am - 11:35am | [Network-based Classification with ClassifyR](abstracts/strbenac.html) <br> Dario Strbenac |
@@ -123,7 +123,7 @@ Bioconductor Workshops are in Seminar Room 1.1
 | 1:30pm - 3:00pm | Bioinformatics Workshop Stream A:<br>Pei Wang - Imputation and data quality control for proteomics data<br>([description](workshops/workshop_wang.html), [materials]()) <br> Bioinformatics Workshop Stream B:<br>Pengyi Yang - Computational analysis for biological discovery from (phospho)proteomic data<br> ([description](workshops/workshop_yang.html), [materials]()) <br><span style="color:green">**Bioconductor Workshop Stream C:<br>Martin Morgan - R and Bioconductor for Genomic Analysis**<br></span> ([description](workshops/workshop_morgan.html), [materials]()) | 
 | 3:00pm - 3:30pm | **Afternoon Tea** <br> (Provided) | |
 | 3:30pm - 4:30pm | Bioinformatics Workshop Stream A:<br>Pei Wang - Imputation and data quality control for proteomics data<br> ([description](workshops/workshop_wang.html), [materials]()) <br> Bioinformatics Workshop Stream B:<br>Ben Crossett, David Maltby & Angela Connolly - Introduction to proteomics<br> ([description](workshops/workshop_crossett_maltby_connolly.html), [materials]()) <br> <span style="color:green">**Bioconductor Workshop Stream C:<br>Peter Hickey & Saskia Freytag - Building a Bioconductor package**<br></span> ([description](workshops/workshop_hickey_freytag.html), [materials]()) |
-| Session 3 | *Chair: TBA* |
+| Session 3 | *Chair: Dave Tang* |
 | 4:30pm - 5:00pm | [Investigating higher order interactions in single cell data with scHOT](abstracts/ghazanfar.html) <br> Shila Ghazanfar - invited talk|
 | 5:00pm - 5:15pm | [Integration of multiple single-cell CyTOF datasets to untangle the heterogeneity of cancer patients' responses to a new class of anti-cancer drugs](abstracts/trussart.html) <br> Marie Trussart |
 | 5:15pm - 5:30pm | [Gene Set Testing for Differentially Methylated Regions](abstracts/maksimoovic.html) <br> Jovana Maksimovic |
