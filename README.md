@@ -27,6 +27,37 @@ John Hopkins Drive,
 The University of Sydney,
 Sydney, NSW 2006
 
+## Code of Conduct
+
+Please be aware that during this event you are expected to follow the 
+[University of Sydney's code of conduct](http://sydney.edu.au/policies/showdoc.aspx?recnum=PDOC2011/215&RendNum=0).
+**In particular, the BioC Asia conference aims to provide a supportive, collegial, and harassment-free environment. **
+
+If someone makes you or anyone else feel unsafe or unwelcome, please report it 
+as soon as possible. Harassment and other code of conduct violations reduce the 
+value of our event for everyone. We want you to be happy at our event. People 
+like you make our event a better place.
+
+You can make a report either personally or anonymously. You can make an 
+anonymous or non-anonymous report here: https://biocasia.wufoo.com/forms/z1ghma0t1gx3tja/. 
+It is a free-form text box that will be forwarded to conference organizers.
+
+We can’t follow up an anonymous report with you directly, but we will fully 
+investigate it and take whatever action is necessary to prevent a recurrence.
+
+You can make a personal report with any of the members of the conference 
+committee: Peter Hickey, Saskia Freytag, Dario Strbenac and Stephen Pederson.
+
+When taking a personal report, our staff will ensure you are safe and cannot 
+be overheard. They may involve other event staff to ensure your report is 
+managed properly. Once safe, we’ll ask you to tell us about what happened. This 
+can be upsetting, but we’ll handle it as respectfully as possible, and you can 
+bring someone to support you. You won’t be asked to confront anyone and we 
+won’t tell anyone who you are.
+
+Our team will be happy to help you! We value your attendance.
+
+
 ## Keynote Speakers
 
 We are pleased to annouce three international keynote speakers:
