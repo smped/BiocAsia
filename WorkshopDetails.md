@@ -15,7 +15,7 @@ pkgs <- c(
     "WangLab-MSSM/DreamAI/Code", "PengyiYang/PhosR", "directPA", "ClueR", 
     "Bioconductor/BiocIntro", "usethis", "roxygen2", "devtools", "goodpractice",
     "BiocCheck", "ExperimentHub", "CATALYST", "diffcyt", "sa-lee/fluentGenomics", 
-    "workflowr"
+    "workflowr", "ICC"
     )
 BiocManager::install(pkgs)
 ```
