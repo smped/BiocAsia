@@ -138,7 +138,8 @@ Bioconductor Workshops are in Seminar Room 1.1
 | 8:45am - 9:00am | Registration <br> |
 | 9:00am - 9:30am | Orientation and project updates <br> Martin Morgan |
 | Session 1 | *Chair: Paul Harrison* |
-| 9:30am - 10:15am | [Computational challenges in single cell genomics and applications in early development](abstracts/marioni.html) <br> John Marioni - invited speaker |
+| 9:30am - 10:00am | [Investigating higher order interactions in single cell data with scHOT](abstracts/ghazanfar.html) <br> Shila Ghazanfar - invited talk|
+| 10:00am - 10:15am | [Integration of multiple single-cell CyTOF datasets to untangle the heterogeneity of cancer patients' responses to a new class of anti-cancer drugs](abstracts/trussart.html) <br> Marie Trussart |
 | 10:15am - 10:20am | [A gene orientated approach to analysis of Hi-C data from immune cells](abstracts/coughlan.html) <br> Hannah Coughlan |
 | 10:20am - 10:25am | [A workshop on single-cell RNA-seq analysis](abstracts/qiao.html) <br> PuXue Qiao |
 | 10:25am - 10:30am | [Seamless visualization of complex genomic variations in GMOs and edited cell lines using gmoviz](abstracts/zeglinski.html) <br> Kathleen Zeglinski |
@@ -155,11 +156,10 @@ Bioconductor Workshops are in Seminar Room 1.1
 | 3:00pm - 3:30pm | **Afternoon Tea** <br> (Provided) | |
 | 3:30pm - 4:30pm | Bioinformatics Workshop Stream A:<br>Pei Wang - Imputation and data quality control for proteomics data<br> ([description](workshops/workshop_wang.html), [materials](https://bis.amsi.org.au/speakers/pei-wang/)) <br> Bioinformatics Workshop Stream B:<br>Ben Crossett, David Maltby & Angela Connolly - Introduction to proteomics<br> ([description](workshops/workshop_crossett_maltby_connolly.html), [materials](https://bis.amsi.org.au/speakers/introduction-to-proteomics/)) <br> <span style="color:green">**Bioconductor Workshop Stream C:<br>Peter Hickey & Saskia Freytag - Building a Bioconductor package**<br></span> ([description](workshops/workshop_hickey_freytag.html), [materials](http://rpubs.com/Saskia/554320)) |
 | Session 3 | *Chair: Dave Tang* |
-| 4:30pm - 5:00pm | [Investigating higher order interactions in single cell data with scHOT](abstracts/ghazanfar.html) <br> Shila Ghazanfar - invited talk|
-| 5:00pm - 5:15pm | [Integration of multiple single-cell CyTOF datasets to untangle the heterogeneity of cancer patients' responses to a new class of anti-cancer drugs](abstracts/trussart.html) <br> Marie Trussart |
-| 5:15pm - 5:30pm | [Gene Set Testing for Differentially Methylated Regions](abstracts/maksimoovic.html) <br> Jovana Maksimovic |
-| 5:30pm - 5:35pm | [A tidy wrapper suite that introduces a unifying grammar for single-cell and bulk transcriptomic analyses](abstracts/mangiola.html) <br> Stefano Mangiola |
-| 5:35pm - 5:40pm | [An Introduction to currently available scATAC-seq data analysing tools](abstracts/yang.html) <br> Haoyu Yang |
+| 4:30pm - 4:45pm | [Gene Set Testing for Differentially Methylated Regions](abstracts/maksimoovic.html) <br> Jovana Maksimovic |
+| 4:45pm - 4:50pm | [A tidy wrapper suite that introduces a unifying grammar for single-cell and bulk transcriptomic analyses](abstracts/mangiola.html) <br> Stefano Mangiola |
+| 4:50pm - 4:55pm | [An Introduction to currently available scATAC-seq data analysing tools](abstracts/yang.html) <br> Haoyu Yang |
+| 5:00pm - 6:00pm | [Bioinfosummer Poster Session](https://bis.amsi.org.au/program/#1562227152701-30236d2b-8de2) |
 | 6:00pm - 7:30pm | [Public Lecture: The bright future of applied statistics](https://bis.amsi.org.au/public-lecture/) <br> Rafael Irizarry | 
 | 7:30pm - 9:00pm | Pub | 
 
