@@ -133,7 +133,8 @@ pkgs <- c(
     "Bioconductor/BiocIntro", "usethis", "roxygen2", "devtools", "goodpractice",
     "BiocCheck", "ExperimentHub", "CATALYST", "diffcyt", "sa-lee/fluentGenomics", 
     "workflowr", "ICC", "clustree", "HDCytoData"
-    )BiocManager::install(pkgs)
+    )
+BiocManager::install(pkgs)
 ```
 
 ## Travel Awards
