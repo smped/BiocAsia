@@ -120,6 +120,8 @@ the workshops please note that:
 - Access to power sockets will be available so please bring your power adapter
 - Please ensure you are running a current browser (i.e. chrome, firefox etc)
 
+To connect to a VM for BiocAsia 2019, please follow [these instructions](VM_connections.html)
+
 ## Travel Awards
 
 There will be a number of travel awards available, with priority given to support students and early career researchers.
