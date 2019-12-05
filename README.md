@@ -122,6 +122,21 @@ the workshops please note that:
 
 To connect to a VM for BiocAsia 2019, please follow [these instructions](VM_connections.html)
 
+If your VM doesn't start, the following code should work:
+
+```
+install.packages("BiocManager")
+pkgs <- c(
+    "cluster", "survival", "randomForest", "missForest", "glmnet", "Rcpp", 
+    "foreach", "itertools", "iterators", "Matrix", "devtools", "impute",
+    "WangLab-MSSM/DreamAI/Code",  "directPA", "ClueR", 
+    "usethis", "roxygen2", "devtools", "goodpractice",
+    "BiocCheck", "ExperimentHub", "CATALYST", "diffcyt", "sa-lee/fluentGenomics", 
+    "workflowr", "ICC", "clustree", "HDCytoData"
+    )
+BiocManager::install(pkgs)
+```
+
 ## Travel Awards
 
 There will be a number of travel awards available, with priority given to support students and early career researchers.

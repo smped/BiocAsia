@@ -438,6 +438,17 @@ Charles Perkins Centre, Camperdown Campus of University of Sydney, NSW, Australi
 <li>Please ensure you are running a current browser (i.e. chrome, firefox etc)</li>
 </ul>
 <p>To connect to a VM for BiocAsia 2019, please follow <a href="VM_connections.html">these instructions</a></p>
+<p>If your VM doesn’t start, the following code should work:</p>
+<pre><code>install.packages(&quot;BiocManager&quot;)
+pkgs &lt;- c(
+    &quot;cluster&quot;, &quot;survival&quot;, &quot;randomForest&quot;, &quot;missForest&quot;, &quot;glmnet&quot;, &quot;Rcpp&quot;, 
+    &quot;foreach&quot;, &quot;itertools&quot;, &quot;iterators&quot;, &quot;Matrix&quot;, &quot;devtools&quot;, &quot;impute&quot;,
+    &quot;WangLab-MSSM/DreamAI/Code&quot;,  &quot;directPA&quot;, &quot;ClueR&quot;, 
+    &quot;usethis&quot;, &quot;roxygen2&quot;, &quot;devtools&quot;, &quot;goodpractice&quot;,
+    &quot;BiocCheck&quot;, &quot;ExperimentHub&quot;, &quot;CATALYST&quot;, &quot;diffcyt&quot;, &quot;sa-lee/fluentGenomics&quot;, 
+    &quot;workflowr&quot;, &quot;ICC&quot;, &quot;clustree&quot;, &quot;HDCytoData&quot;
+    )
+BiocManager::install(pkgs)</code></pre>
 </div>
 <div id="travel-awards" class="section level2">
 <h2>Travel Awards</h2>
