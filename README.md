@@ -129,12 +129,11 @@ install.packages("BiocManager")
 pkgs <- c(
     "cluster", "survival", "randomForest", "missForest", "glmnet", "Rcpp", 
     "foreach", "itertools", "iterators", "Matrix", "devtools", "impute",
-    "WangLab-MSSM/DreamAI/Code",  "directPA", "ClueR", 
-    "usethis", "roxygen2", "devtools", "goodpractice",
+    "WangLab-MSSM/DreamAI/Code", "PengyiYang/PhosR", "directPA", "ClueR", 
+    "Bioconductor/BiocIntro", "usethis", "roxygen2", "devtools", "goodpractice",
     "BiocCheck", "ExperimentHub", "CATALYST", "diffcyt", "sa-lee/fluentGenomics", 
     "workflowr", "ICC", "clustree", "HDCytoData"
-    )
-BiocManager::install(pkgs)
+    )BiocManager::install(pkgs)
 ```
 
 ## Travel Awards
