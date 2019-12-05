@@ -137,6 +137,8 @@ pkgs <- c(
 BiocManager::install(pkgs)
 ```
 
+Contents of the VM data folder can be downloaded from [here](https://cloudstor.aarnet.edu.au/sender/?s=download&token=12762220-5d8d-4b80-9db6-d5015b8a3a1d)
+
 ## Travel Awards
 
 There will be a number of travel awards available, with priority given to support students and early career researchers.
