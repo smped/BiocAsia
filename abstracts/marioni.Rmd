@@ -1,0 +1,15 @@
+---
+title: "Computational challenges in single cell genomics and applications in early development."
+author:
+- name: John Marioni
+  affiliation: University of Cambridge
+
+output:
+  BiocStyle::html_document
+---
+
+# Abstract
+
+Gastrulation and the specification of the three germ layers are key events in animal development.  However, molecular analyses of these processes have been limited due to the small number of cells present in gastrulating embryos. With recent developments in the field of single-cell biology however, it is now possible to overcome these limitations and to characterize, for the first time at the single-cell level, how cell fate decisions are made.
+
+In this talk I will discuss data generated using a variety of omics strategies to study cell fate specification in mouse, focusing on the computational models we have developed to interrogate these data. I will show how we have used these data to obtain novel insight into cell fate decisions during early mammalian development

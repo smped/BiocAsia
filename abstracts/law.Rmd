@@ -1,0 +1,19 @@
+---
+title: "Modelling for heteroscedastic groups in RNA-seq data."
+author:
+- name: Charity Law
+  affiliation: Walter and Eliza Hall Institute of Medical Research
+
+  
+output:
+  BiocStyle::html_document
+---
+
+# Abstract
+
+For RNA-sequencing analyses, the estimated variance used to test differential expression of genes is assumed to be equal between different conditions for most published methods, including "gold-standard" methods such as that of limma-voom, edgeR and DESeq2. 
+However, there are cases where variability between conditions are distinctly different to each other and it is inappropriate to assume equal variances between conditions. 
+Demissie et al. (2008) proposes a moderated Welch test which performs better than the moderated t-test when group variances are unequal. 
+We instead handle heteroscedasticity between groups by carrying out group-specific modelling of variances. 
+We show that this achieves greater power than modelling with a pooled-trend. 
+

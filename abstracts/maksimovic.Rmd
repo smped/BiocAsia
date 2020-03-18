@@ -1,0 +1,24 @@
+---
+title: "Gene Set Testing for Differentially Methylated Regions."
+author:
+- name: Jovana Maksimovic
+  affiliation: Murdoch Children's Research Institute
+- name: Alicia Oshlack
+  affiliation: Murdoch Children's Research Institute
+- name: Belinda Phipson
+  affiliation: Murdoch Children's Research Institute
+  
+output:
+  BiocStyle::html_document
+---
+
+# Abstract
+
+DNA methylation is the most extensively studied epigenetic modification. It is necessary for normal embryonic development and is often altered in disease, thus providing valuable insight into many biological mechanisms. 
+
+Illumina’s HumanMethylation BeadChips remain the most popular platform for assaying methylation in humans. Their newest “EPIC” BeadChip interrogates the methylation status of >850,000 CpGs across the human genome. CpGs are richly annotated and are heavily biased towards genes and other regions of interest such as enhancers. 
+
+Typically, a probe-level analysis looks for associations between methylation levels at individual CpGs and a factor of interest e.g. disease status. We have previously shown that genes with more CpG probes on the Illumina array are more likely to have significantly differentially methylated CpGs, biasing downstream gene set analysis, which is often used to interpret long lists of significant CpGs. We developed the GOmeth method to account for this bias, for probe-level analyses. However, region-level analyses, which identify correlated methylation patterns between several spatially adjacent CpGs, can yield more functionally relevant results. 
+
+Here we demonstrate that the same bias affects gene set testing of region-level analyses and have extended GOmeth accordingly. We show that GOregion identifies more biologically meaningful gene sets than a naive hypergeometric test. We also demonstrate that a GOregion analysis can distil more focused gene sets than a probe-level gene set analysis of the same data, which is highly dependent on the significance cut offs used. GOregion is compatible with the results of any software for finding differentially methylated regions, which can be expressed as a ranged data object. It is also highly efficient and can test a variety of gene sets such as GO categories, KEGG pathways or any list of custom gene sets. GOregion is available as a function in the missMethyl Bioconductor R package.
+

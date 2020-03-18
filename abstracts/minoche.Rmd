@@ -1,0 +1,31 @@
+---
+title: "ClinSV: Detection of clinically relevant structural and copy number variation from whole genome sequencing."
+author:
+- name: Andre Minoche
+  affiliation: Kinghorn Centre for Clinical Genomics
+- name: Ben Lundie
+  affiliation: Kinghorn Centre for Clinical Genomics
+- name: Greg Peters
+  affiliation: Kinghorn Centre for Clinical Genomics
+- name: Mark Pinese
+  affiliation: Kinghorn Centre for Clinical Genomics
+- name: David Thomas
+  affiliation: Kinghorn Centre for Clinical Genomics
+- name: Andreas Zankl
+  affiliation: Kinghorn Centre for Clinical Genomics
+- name: Tony Roscioli
+  affiliation: Kinghorn Centre for Clinical Genomics
+- name: Marcel Dinger
+  affiliation: Kinghorn Centre for Clinical Genomics
+- name: Mark Cowley
+  affiliation: Kinghorn Centre for Clinical Genomics
+output:
+  BiocStyle::html_document
+---
+
+# Abstract
+
+Clinical-grade detection and interpretation of structural variation (SV) including copy number variation (CNV) from whole genome sequencing (WGS) has the potential to revolutionize genetic testing by replacing micro-arrays. Current WGS based approaches however showed high error rates, poor reproducibility, and difficulties in annotating, visualizing, and prioritizing rare variants.
+
+We present ClinSV, a platform addressing these challenges, by integrating read depth, split and spanning read evidence, with extensive quality attributes and, by providing a comprehensive variant visualization procedure. By analyzing WGS from 500 healthy individuals, ClinSV annotates calls with population allele frequencies, enabling filtration of on average 5,800 SVs down to 16 rare gene-affecting variants per germline sample. We benchmarked ClinSV against clinical microarrays and gold standard deletion CNV calls from NA12878, as well as other popular SV callers. ClinSV identified 100% of the pathogenic CNV from microarrays, including seven that were not detected using only a structural variant caller. Finally, we found that 13% of CNV had surrounding pairs of repeats, causing reduced SR and DP evidence, and highlighting the utility of integrating complementary CNV detection approaches.
+

@@ -1,0 +1,33 @@
+---
+title: "Fluent genomics: a plyranges and tximeta case-study"
+author: 
+- name: Stuart Lee
+  affiliation: Monash University; Walter and Eliza Hall Institute for Medical Research
+- name: Michael Love
+  affiliation: University of North Carolina
+output:
+  BiocStyle::html_document
+---
+
+# Description
+
+In this workshop, we will give an overview of how to perform exploratory analyses of genomic data using the grammar of genomic data transformation defined in the plyranges package. 
+In the first half of the workshop, we will introduce the GRanges data structure and provide an overview of the core verbs for arithmetic, restriction, and aggregation of GRanges. 
+In the second half of the workshop, we will work through case study of integrating differential expression and differential chromatin accessibility results from an experiment of macrophage cell lines. 
+We will learn how to use the tximeta package for automatically preparing data from
+an RNA-seq experiment with correct reference annotations.
+
+# Requirements
+
+You will need to bring your own laptop. The workshop will use cloud-based
+resources, so your laptop will need a web browser and WiFi capabilities. A familiarity with the basics of R/tidyverse would be a plus but is not strictly necessary.
+
+# Relevance
+
+This workshop will be beneficial to new learners of R who would like to understand more
+about Bioconductor and learners who are already familiar with the tidyverse suite of packages
+and would like to apply those concepts to bioinformatics data analysis. It is also
+recommended for biological scientists who would like to start looking at data from their own
+experiments but are not sure how to begin.
+
+*Key words: genomics, RNA-seq, tidyverse, R programming, Bioconductor*

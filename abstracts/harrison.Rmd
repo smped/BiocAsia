@@ -1,0 +1,24 @@
+---
+title: "topconfects: rank differentially expressed genes using confidence bounds on fold change, with multiple testing adjustment."
+author:
+- name: Paul Harrison
+  affiliation: Monash Bioinformatics Platform, Monash University
+
+output:
+  BiocStyle::html_document
+---
+
+# Abstract
+
+Bioconductor package topconfects provides ranking of differentially expressed genes based on confidence bounds on the log fold change [1]. This is an alternative presentation of TREAT results [2] with improved usability, and the confidence bounds on top genes also provide a False Coverage-statement Rate [3] guarantee. This p-value-free presentation of results is timely given renewed criticism of the usability of p-values in statistics. When ranking results by p-value, the default in many software packages, genes with a small fold change may be ranked highly if they also have low variability or high measurement accuracy. In contrast, topconfects will emphasize the largest fold changes that we can be confident in, and may reveal different biology. The method can also be applied to different data types and tests. If testing gives high "significance" to many uninteresting results, topconfects with a suitable choice of effect size may produce a more relevant ranking of results.
+
+
+[1] Harrison, PF, Pattison, AD, Powell, DR, and Beilharz, TH (2019). Topconfects: a package for confident effect sizes in differential expression analysis provides a more biologically useful ranked gene list. Genome Biology, 20(1):67
+
+[2] McCarthy, DJ and Smyth, GK (2009). Testing significance relative to a fold-change threshold is a TREAT. Bioin- formatics, 25(6):765–771.
+
+[3] Benjamini, Y and Yekutieli, D (2005). False Discovery Rate–Adjusted Multiple Confidence Intervals for Selected Parameters. Journal of the American Statistical Association, 100(469):71– 81.
+
+# Links
+
+https://bioconductor.org/packages/release/bioc/html/topconfects.html

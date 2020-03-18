@@ -1,0 +1,18 @@
+---
+title: "An Introduction to currently available scATAC-seq data analysing tools."
+author:
+- name: Haoyu Yang
+  affiliation: Walter and Eliza Hall Institute of Medical Research
+- name: Matthew Ritchie
+  affiliation: Walter and Eliza Hall Institute of Medical Research
+- name: Shanika Amarasinghe
+  affiliation: Walter and Eliza Hall Institute of Medical Research
+   
+output:
+  BiocStyle::html_document
+---
+
+# Abstract
+
+Single-cell assay for transposase accessible chromatin using sequencing (scATAC-seq) enables genome-wide profiling of chromatin accessibility that can be used to improve gene expression modelling at single-cell resolution. scATAC-seq data are intrinsically sparse, since the signals detected at genomic positions are limited by DNA copy number, thereby making it difficult to discriminate signals from noise. Currently there exists several methods for downstream analysis of scATAC-seq data. These tools can perform functions such as clustering, trajectory analysis, identifying cell-specific development stages and transcription regulatory motifs. In this talk, we will summarise currently available scATAC-seq tools of which the majority are in the form of R packages. We will focus on their functionality, usability and assumptions behind the key processing algorithms. We will also evaluate the performance of these tools on our in-house dataset on the basis of speed, noise-handling and managing varying sequencing depths.
+

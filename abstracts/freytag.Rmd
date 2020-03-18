@@ -1,28 +1,19 @@
 ---
-title: "Efforts towards a definitive pipeline for the analysis of matched single cell nuclei RNA-seq."
+title: "schex avoids overplotting for large single cell RNA-sequencing datasets."
 author:
 - name: Saskia Freytag
-  affiliation: Population Health and Immunity Division, Walter and Eliza Hall Institute, VIC, Australia <br> Department of Medical Biology, University of Melbourne, VIC, Australia
-- name: Wei Shern Lee
-  affiliation: Neurogenetic Research, Murdoch Children’s Research Institute, VIC, Australia
-- name: Sarah Stephenson
-  affiliation: Neurogenetic Research, Murdoch Children’s Research Institute, VIC, Australia
-- name: Richard Leventer
-  affiliation: Department of Neurology, Royal Children’s Hospital, VIC, Australia
-- name: Simon Harvey
-  affiliation: Department of Neurology, Royal Children’s Hospital, VIC, Australia
-- name: Wriginia Maixner
-  affiliation: Department of Neurology, Royal Children’s Hospital, VIC, Australia
-- name: Melanie Bahlo
-  affiliation: Population Health and Immunity Division, Walter and Eliza Hall Institute, VIC, Australia <br> Department of Medical Biology, University of Melbourne, VIC, Australia
-- name: Paul Lockhart
-  affiliation: Neurogenetic Research, Murdoch Children’s Research Institute, VIC, Australia
+  affiliation: Harry Perkins Institute of Medical Research
+- name: Ryan Lister
+  affiliation: Harry Perkins Institute of Medical Research
+
 output:
   BiocStyle::html_document
 ---
 
 # Abstract
 
-This year has seen the number of dedicated tools for the analysis of scRNA-seq data reach over 250, with over half implemented in R. Most of these tools address only parts of an scRNA-seq data analysis workflow, like alignment, normalization or clustering. Even when tools cover multiple parts of the analysis workflow, their selection of methods may not present the best solution according to ongoing benchmarking efforts in the field or may be unsuitable for more complex data. This forces users not just to switch between tools, but also between object classes and in some cases programming languages. 
+Visualizations, especially of dimension reductions, are the workhorse of all single cell RNA-sequencing (RNA-seq) data analyses. Currently employed visualization techniques struggle with the scale and sparsity of scRNA-seq data with sometimes disastrous consequences, such as masking or overrepresenting cells expressing a marker genes. To address this we developed the R package schex, which allows users to produce hexgonal binning representations for dimension reductions of scRNA-seq data stored in Seurat or SingleCellExperiment objects. Hexagonal binning representations, which summarize neighbouring points into hexagons, are a widely used technique when plotting extremely large datasets. We demonstrate that they can lead to more accurate plots that are at the same time faster and require less storage than traditional plots. This increase in speed of plotting also makes them especially suited towards interactive visualizations. Finally, we showcase some of schex’s new capabilities that allow plotting of different modalities as well as interactions between modalities.
 
-Here we want to present our pipeline for the analysis of single cell nuclei RNA-sequencing (sc/n-RNA-seq) of surgically resected brain tissue from four patients with brain malformations. For each patient we have data from both normal as well as dysplastic tissue. While this powerful experimental design allows us to reveal the molecular characteristics of brain malformations, such as dysplastic cell types, it requires a non-standard pipeline of many tools. We will report on the challenges we encountered due to this increased modularity. We will also report on data integration efforts across individuals as well as interactive tools developed during this project to improve communication with biologists and clinicians.
+# Links
+
+https://github.com/SaskiaFreytag/schex

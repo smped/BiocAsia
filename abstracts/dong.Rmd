@@ -1,0 +1,26 @@
+---
+title: "Use R/Bioconductor for Nanopore RNA-seq data analysis."
+author:
+- name: Xueyi Dong 
+  affiliation: Walter and Eliza Hall Institute of Medical Research
+- name: Quentin Gouil
+  affiliation: Walter and Eliza Hall Institute of Medical Research
+- name: Kelsey Breslin
+  affiliation: Walter and Eliza Hall Institute of Medical Research
+- name: Megan Iminitoff
+  affiliation: Walter and Eliza Hall Institute of Medical Research
+- name: Marnie Blewitt
+  affiliation: Walter and Eliza Hall Institute of Medical Research
+- name: Charity Law
+  affiliation: Walter and Eliza Hall Institute of Medical Research
+- name: Matthew Ritchie
+  affiliation: Walter and Eliza Hall Institute of Medical Research
+  
+output:
+  BiocStyle::html_document
+---
+
+# Abstract
+
+Oxford Nanopore Technologies’ (ONT) nanopore sequencing is overcoming its early limitation and broadening its application domains in genomics. However, transcriptomic analysis of ONT data is challenged by the low sequencing depth, which decreases the accuracy of quantification and reduces the power of statistic tests. Here, we have a transcriptome dataset of mouse neural stem cells (NSC) containing two groups which were sequenced by ONT direct cDNA sequencing. The mean library size of each sample is ~3.0 million. We used the featureCounts function from the package Rsubread for gene level quantification, followed by the edgeR package to import, filter and normalize the data, and assessed differentially expressed genes by the limma package with its voomWithQualityWeights method, linear modelling and empirical Bayes moderation. We performed a gene set test using ROAST against the results from a previous Illumina short read RNA-seq study containing the same types of cells, and the results shows that genes are changing their expression generally towards the same direction in our dataset compared to the previous study. We also performed differential transcript usage (DTU) analysis for transcript level counts using the package DRIMSeq. Overall, our study shows that transcriptomic analysis of ONT data can yield meaningful results comparable to short read study with existing Bioconductor packages in R.
+

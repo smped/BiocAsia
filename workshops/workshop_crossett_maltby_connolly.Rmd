@@ -1,0 +1,30 @@
+---
+title: "Introduction to Proteomics"
+author:
+- name: Ben Crossett
+  affiliation: University of Sydney
+- name: David Maltby
+  affiliation: University of Sydney
+- name: Angela Connolly 
+  affiliation: University of Sydney
+output:
+  BiocStyle::html_document
+---
+
+# Description
+
+15:30 – 15:50 *Proteomics 101*: how to identify a protein by mass spectrometer
+15:50 – 16:10 Half the class have a tour (hopefully inside) of SydneyMS, while half the class have a stab at PMF in demo laptops set up in the room.
+16:10 – 16:30 As above but groups switch over.
+
+# Requirements
+
+No equipment or knowledge required
+
+# Relevance
+
+Students who have little knowledge of mass spectrometry will benefit from this
+intro workshop. This workshop also presents an opportunity for students to tour a workshop
+MS facility
+
+*Key words: mass spectrometry, proteomics*

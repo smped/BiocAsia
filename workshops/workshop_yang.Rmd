@@ -1,0 +1,33 @@
+---
+title: "Computational analysis for biological discovery from (phospho)proteomic data"
+author:
+- name: Dr Pengyi Yang
+  affiliation: University of Sydney
+output:
+  BiocStyle::html_document
+---
+
+# Description
+
+Mass spectrometry (MS) has become a well-established technology for global
+profiling of proteome and phosphoproteome in cells and tissues. Sophisticated
+computational methods are required for making sense of the data generated from MS-based
+proteomics and phosphoproteomics. In relation to professor Pei Wang's talk/workshop,
+which covers the methods/tools for preprocessing of MS-based proteomic data, this
+talk/workshop will introduce computational methods/tools for identifying kinases,
+substrates, and signalling and gene pathways that are regulated in different experimental
+conditions, assays, and time-series from large-scale proteomic and phosphoproteomic data.
+Hands-on demonstrations will be given in the workshop in which various computational
+methods/tools will be introduced through example applications to several proteomic and
+phosphoproteomic datasets using R programming environment.
+
+# Requirements
+
+You will need to bring your own laptop. Please make sure it has the
+latest version of R installed.
+
+# Relevance
+
+This workshop will introduce advanced computational methods for anyone interested in understanding the phosphoproteome from MS data. 
+
+*Keywords: Proteomics, data mining*

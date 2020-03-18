@@ -1,0 +1,17 @@
+---
+title: "A workshop on single-cell RNA-seq analysis."
+author:
+- name: PuXue Qiao
+  affiliation: St Vincent's Institute
+- name: Ruqian Lyu 
+  affiliation: St Vincent's Institute
+- name: Davis McCarthy
+  affiliation: St Vincent's Institute
+output:
+  BiocStyle::html_document
+---
+
+# Abstract
+
+We present a single-cell RNA-seq analysis workshop focusing on computational analysis of the data obtained from single-cell experiments using high-throughput sequencing (scRNA-seq). We also discuss some key features of the technology platforms and biological questions that can be addressed using scRNA-seq. The workshop covers all steps of scRNA-seq data processing, starting from the raw reads coming off the sequencer. It provides hands-on workflows of common analysis strategies (including quality control, data normalisation, visualisation, clustering, trajectory (pseudotime) inference, differential expression, batch correction and data integration) using state-of-the-art software tools on carefully selected, biologically-relevant example datasets. Course materials are open-source and all examples are readily reproducible through the course docker image. Finally, we also aim to provide a deeper insight into the computational and statistical methods implemented in our favourite Bioconductor R packages, explaining how the ”blackbox” works and discussing their strengths, limits and known pitfalls.
+
